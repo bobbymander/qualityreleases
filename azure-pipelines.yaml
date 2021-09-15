@@ -2,18 +2,27 @@ name: Azure Pipelines
 variables:
   python.version: '3.7.6'
 stages:
+- stage: Create
+  jobs:
+  - job: Create
+    steps:
+    - task: InstallSSHKey@0
+      inputs:
+        knownHostsEntry: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC2m8YGXgcD2ihrEjMqmJGtl1sfQP/TjOQiKjr2GFPmxizJWDIoriU9ss+tPkbv3qyU0v0FYG65ZOLusvQNwuy6OpCsPDm4k+Oc7FUxScrjtLDANvC3BADh6iA07eJccb3SI7n8How7+qGL1+N7Zp3hrLLpRRS4xyUHLoeZNWilN4/EB++KCpaGsTOtUa5yVhinTZqmZplI+2gxa3IBhhfCS6mzGigVQfAORy+AooG2uFY6m+nFBf8B+5Hu/xc7VITqmqUi/izSmv5HyRWk0jsYikxx0gOytKjP6rsWbrswr6vZxmM1Go0Deiwra0mZAv/CDNvjb+D8K5jCCAKyMGagavuisCK0gwA+I7eQ68h+WuLldSSIwMXTgu3FwOJNzZKLzahdc/QzCjRV+gD3jAT/UeN9VnRGjwoQSIegndMNQyB7W8mnT0XSfiIdbOgV03SDDV33cX0gR3u9HOKPOOB0SCIlRWj8DFDhTKp0/gkOBKElFZwzTUpXVilUVx4RSiAxk0ITesYJupagS/izVmCWi4Z3TPpqKA0bBpyweVzTGs56lvkEs21UywA0G1xzDMee+40MbEQVm38dAVTGxoWZ1KE6BZU5GdVPG2UIOAjnwRo+PzUSjxWwqRtFynV32VXIAVbhYh6d3VPnMWRAHNvA5KkPkAZjCPZR06vU0BwTCQ== t@cc-3cd0a9b8-6465695bbc-ttpxx'
+        sshPublicKey: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC2m8YGXgcD2ihrEjMqmJGtl1sfQP/TjOQiKjr2GFPmxizJWDIoriU9ss+tPkbv3qyU0v0FYG65ZOLusvQNwuy6OpCsPDm4k+Oc7FUxScrjtLDANvC3BADh6iA07eJccb3SI7n8How7+qGL1+N7Zp3hrLLpRRS4xyUHLoeZNWilN4/EB++KCpaGsTOtUa5yVhinTZqmZplI+2gxa3IBhhfCS6mzGigVQfAORy+AooG2uFY6m+nFBf8B+5Hu/xc7VITqmqUi/izSmv5HyRWk0jsYikxx0gOytKjP6rsWbrswr6vZxmM1Go0Deiwra0mZAv/CDNvjb+D8K5jCCAKyMGagavuisCK0gwA+I7eQ68h+WuLldSSIwMXTgu3FwOJNzZKLzahdc/QzCjRV+gD3jAT/UeN9VnRGjwoQSIegndMNQyB7W8mnT0XSfiIdbOgV03SDDV33cX0gR3u9HOKPOOB0SCIlRWj8DFDhTKp0/gkOBKElFZwzTUpXVilUVx4RSiAxk0ITesYJupagS/izVmCWi4Z3TPpqKA0bBpyweVzTGs56lvkEs21UywA0G1xzDMee+40MbEQVm38dAVTGxoWZ1KE6BZU5GdVPG2UIOAjnwRo+PzUSjxWwqRtFynV32VXIAVbhYh6d3VPnMWRAHNvA5KkPkAZjCPZR06vU0BwTCQ== t@cc-3cd0a9b8-6465695bbc-ttpxx'
+        sshKeySecureFile: 'id_rsa'
+    - task: TerraformInstaller@0
+      inputs:
+        terraformVersion: '1.0.6'
+
+
 - stage: Build
   jobs:
   - job: Build
     pool:
       name: Hosted Ubuntu 1604
     steps:
-    # Needed for Terraform VM deployment
-    # - task: InstallSSHKey@0
-    #   inputs:
-    #     knownHostsEntry: 'KNOWN_HOSTS_STRING'
-    #     sshPublicKey: 'PUBLIC_KEY'
-    #     sshKeySecureFile: 'id_rsa'
+
     - task: ArchiveFiles@2
       displayName: 'Archive FakeRestAPI'
       inputs:
