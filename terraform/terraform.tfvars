@@ -5,11 +5,11 @@ client_secret = "L_gwaTLpaCbgzePd9-9V9VFjE.CAq-ueHV"
 tenant_id = "fb80cb71-0ede-4a27-a85e-f728cb481deb"
 
 # Resource Group/Location
-location = ""
-resource_group = ""
-application_type = ""
+location = "East US"
+resource_group = "bobby-rg"
+application_type = "bobby-apptype"
 
 # Network
-virtual_network_name = ""
+virtual_network_name = "bobby-vnet"
 address_space = ["10.5.0.0/16"]
 address_prefix_test = "10.5.1.0/24"
