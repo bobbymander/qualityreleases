@@ -56,7 +56,6 @@ stages:
     pool:
       name: Hosted Ubuntu 1804
     steps:
-
     - task: ArchiveFiles@2
       displayName: 'Archive FakeRestAPI'
       inputs:
@@ -67,6 +66,16 @@ stages:
     - publish: $(Build.ArtifactStagingDirectory)/$(Build.BuildId)-fakerestapi.zip
       displayName: 'Upload Package'
       artifact: drop-fakerestapi
+    - task: ArchiveFiles@2
+      inputs:
+        rootFolderOrFile: "$(System.DefaultWorkingDirectory)/automatedtesting/selenium"
+        includeRootFolder: false
+        archiveType: "zip"
+        archiveFile: '$(Build.BuildId)/selenium-tests.zip'
+        replaceExistingArchive: true
+    - upload: $(Build.BuildId)/selenium-tests.zip
+      artifact: selenium
+
 - stage: Deploy
   jobs:
   - deployment: FakeRestAPI
@@ -78,12 +87,13 @@ stages:
         deploy:
           steps:
           - task: AzureWebApp@1
-            displayName: 'Deploy Azure Web App'
             inputs:
               azureSubscription: 'bobby-svcconn'
               appName: 'bobby-AppService'
               appType: webApp
               package: $(Pipeline.Workspace)/drop-fakerestapi/$(Build.BuildId)-fakerestapi.zip
+              deploymentMethod: 'auto'
+
   - deployment: VMDeploy
     environment:
       name:  bobbymvm
@@ -103,6 +113,23 @@ stages:
                 sudo apt-get install unzip -y
                 sudo apt-get install -y chromium-browser
                 pip3 install selenium
-                export PATH=$PATH:some/path
+                
+                wget https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_linux64.zip
+                unzip chromedriver_linux64.zip
+                sudo mv chromedriver /usr/bin/chromedriver
+                sudo chown root:root /usr/bin/chromedriver
+                sudo chmod +x /usr/bin/chromedriver
+                chromium-browser -version
+                chromedriver --version
+                wget https://raw.githubusercontent.com/Microsoft/OMS-Agent-for-Linux/master/installer/scripts/onboard_agent.sh && sh onboard_agent.sh -w dbf2bd83-6d47-436b-a499-a2b566def8fe -s MuSR8Ti5MMi0E+9+1NM4NxCxFqJcfLzuGD0EtGhjXo3Vhy/THcSdCf1WyQnkXafD+6DiFjiOAEfJiQh6EbZVeg== -d opinsights.azure.com
 
-
+          - download: current
+            artifact: selenium
+          - task: Bash@3
+            inputs:
+              targetType: 'inline'
+              script: |
+                unzip -o $(Pipeline.Workspace)/selenium/selenium-tests.zip -d .
+                sudo mkdir /var/logs
+                python3 uitests.py > ui-logs.log
+                sudo mv ui-logs.log /var/logs
