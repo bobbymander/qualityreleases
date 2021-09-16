@@ -19,9 +19,9 @@ stages:
         provider: 'azurerm'
         command: 'init'
         backendServiceArm: 'bobby-svcconn'
-        backendAzureRmResourceGroupName: 'tstate'
+        backendAzureRmResourceGroupName: 'tfstate'
         backendAzureRmStorageAccountName: 'tfstate294'
-        backendAzureRmContainerName: 'tstate'
+        backendAzureRmContainerName: 'tfstate'
         backendAzureRmKey: 'key1'
         workingDirectory: '$(System.DefaultWorkingDirectory)/terraform'
       
