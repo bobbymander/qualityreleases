@@ -7,7 +7,7 @@ tenant_id = "fb80cb71-0ede-4a27-a85e-f728cb481deb"
 # Resource Group/Location
 location = "East US"
 resource_group = "bobby-rg"
-application_type = "bobby-apptype"
+application_type = "bobby"
 
 # Network
 virtual_network_name = "bobby-vnet"
