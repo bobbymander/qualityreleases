@@ -13,15 +13,15 @@ stages:
         sshKeySecureFile: 'id_rsa'
     - task: TerraformInstaller@0
       inputs:
-        terraformVersion: '0.13.4'
+        terraformVersion: '0.14.8'
     - task: TerraformTaskV1@0
       inputs:
         provider: 'azurerm'
         command: 'init'
         backendServiceArm: 'bobby-svcconn'
-        backendAzureRmResourceGroupName: 'tstate'
+        backendAzureRmResourceGroupName: 'tfstate'
         backendAzureRmStorageAccountName: 'tfstate294'
-        backendAzureRmContainerName: 'tstate'
+        backendAzureRmContainerName: 'tfstate'
         backendAzureRmKey: 'key1'
         workingDirectory: '$(System.DefaultWorkingDirectory)/terraform'
       
