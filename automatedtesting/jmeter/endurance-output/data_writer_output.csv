@@ -1,0 +1,1201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1631890887366,327,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,1,1,https://bobby-appservice.azurewebsites.net/api/Activities,327,0,295
+1631890887693,23,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,1,1,https://bobby-appservice.azurewebsites.net/api/Activities/1,23,0,0
+1631890887717,63,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,1,1,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890887781,24,GET Author,200,OK,Endurance 1-1,text,true,,330,175,1,1,https://bobby-appservice.azurewebsites.net/api/Authors/1,24,0,0
+1631890887806,70,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890887877,41,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,41,0,0
+1631890887919,21,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890887941,22,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,22,0,0
+1631890887843,124,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,124,0,95
+1631890887968,23,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,23,0,0
+1631890887963,45,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,33,0,0
+1631890888008,27,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,27,0,0
+1631890887991,45,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890888037,24,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,24,0,0
+1631890888035,52,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890888088,34,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,33,0,0
+1631890888062,83,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,41,0,0
+1631890888122,37,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,37,0,0
+1631890888146,38,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,38,0,0
+1631890888160,29,GET Activity,200,OK,Endurance 1-1,text,true,,350,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,29,0,0
+1631890888185,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890888189,26,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,20,0,0
+1631890888216,24,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,24,0,0
+1631890888208,32,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,32,0,0
+1631890888241,35,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890888241,59,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890888276,30,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,30,0,0
+1631890888306,47,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,25,0,0
+1631890888301,52,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,52,0,0
+1631890888353,23,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890888353,34,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,34,0,0
+1631890888376,30,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,30,0,0
+1631890888387,28,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890888407,35,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890888416,27,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,27,0,0
+1631890888443,23,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,23,0,0
+1631890888444,55,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890888467,62,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890888499,55,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,55,0,0
+1631890888530,29,GET Book,200,OK,Endurance 1-1,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,29,0,0
+1631890888560,24,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890888555,55,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890888584,30,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,30,0,0
+1631890888611,25,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,25,0,0
+1631890888614,37,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890888637,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890888661,18,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,18,0,0
+1631890888652,27,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,27,0,0
+1631890888680,41,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,37,0,0
+1631890888680,62,GET All Books,200,OK,Endurance 1-1,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890888722,27,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,27,0,0
+1631890888750,43,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,24,0,0
+1631890888743,50,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,50,0,0
+1631890888794,29,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890888794,31,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,31,0,0
+1631890888826,22,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890888823,27,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,27,0,0
+1631890888849,41,GET Activity,200,OK,Endurance 1-2,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,41,0,0
+1631890888851,44,GET All Authors,200,OK,Endurance 1-1,text,true,,47667,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,39,0,0
+1631890888892,34,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890888896,41,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,41,0,0
+1631890888927,30,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,30,0,0
+1631890888938,67,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890888958,66,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,49,0,0
+1631890889005,40,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,40,0,0
+1631890889024,29,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,29,0,0
+1631890889046,21,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890889055,30,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890889068,27,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,27,0,0
+1631890889086,26,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,26,0,0
+1631890889095,41,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890889113,44,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,33,0,0
+1631890889137,29,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,29,0,0
+1631890889158,23,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,23,0,0
+1631890889166,56,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890889181,57,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,43,0,0
+1631890889222,41,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,40,0,0
+1631890889239,26,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,26,0,0
+1631890889266,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890889263,29,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890889292,28,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,28,0,0
+1631890889292,29,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,29,0,0
+1631890889321,36,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890889321,43,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,36,0,0
+1631890889358,42,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,42,0,0
+1631890889365,35,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,35,0,0
+1631890889401,60,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890889401,70,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890889462,37,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,37,0,0
+1631890889471,36,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,36,0,0
+1631890889507,20,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,20,0,0
+1631890889500,30,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890889527,21,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,21,0,0
+1631890889531,26,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,26,0,0
+1631890889557,25,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890889548,40,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,35,0,0
+1631890889589,19,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,19,0,0
+1631890889583,25,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,25,0,0
+1631890889609,69,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890889609,81,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,51,0,0
+1631890889679,39,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,39,0,0
+1631890889691,34,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,34,0,0
+1631890889718,26,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890889726,34,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,34,0,0
+1631890889744,26,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,26,0,0
+1631890889761,22,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,22,0,0
+1631890889770,31,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890889783,41,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890889802,28,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,28,0,0
+1631890889824,29,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,29,0,0
+1631890889830,46,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,26,0,0
+1631890889876,31,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,31,0,0
+1631890889853,54,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890889913,29,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890889913,35,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,35,0,0
+1631890889943,27,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,27,0,0
+1631890889949,24,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890889971,27,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,19,0,0
+1631890889974,30,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,30,0,0
+1631890889999,34,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,34,0,0
+1631890890004,38,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890890043,28,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,28,0,0
+1631890890034,50,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890890071,52,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890890085,38,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,38,0,0
+1631890890124,24,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890890123,29,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,29,0,0
+1631890890148,18,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,18,0,0
+1631890890153,24,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890890167,31,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890890178,30,GET Activity,200,OK,Endurance 1-1,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,30,0,0
+1631890890199,27,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,27,0,0
+1631890890209,38,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890890226,57,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890890248,35,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,35,0,0
+1631890890283,31,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,31,0,0
+1631890890283,60,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890890314,29,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890890344,18,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,18,0,0
+1631890890344,30,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,30,0,0
+1631890890362,41,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890890377,43,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,43,0,0
+1631890890404,31,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,31,0,0
+1631890890424,30,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,30,0,0
+1631890890435,56,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890890454,49,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,35,0,0
+1631890890491,37,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,37,0,0
+1631890890504,28,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,28,0,0
+1631890890528,26,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890890533,64,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890890554,43,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,43,0,0
+1631890890598,33,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890890598,34,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,34,0,0
+1631890890631,29,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,29,0,0
+1631890890632,32,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,32,0,0
+1631890890664,27,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,27,0,0
+1631890890660,53,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890890691,43,GET All Authors,200,OK,Endurance 1-1,text,true,,41541,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890890713,44,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,44,0,0
+1631890890734,23,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,23,0,0
+1631890890758,28,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890890758,44,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,29,0,0
+1631890890786,25,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,25,0,0
+1631890890803,33,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,33,0,0
+1631890890811,35,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890890837,23,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890890847,18,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,18,0,0
+1631890890861,27,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,27,0,0
+1631890890865,53,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890890888,39,GET All Authors,200,OK,Endurance 1-1,text,true,,53747,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890890936,30,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,30,0,0
+1631890890936,37,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,37,0,0
+1631890890974,21,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890890966,56,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890890995,28,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,28,0,0
+1631890891023,41,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,41,0,0
+1631890891024,46,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,34,0,0
+1631890891064,29,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890891070,23,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,23,0,0
+1631890891094,29,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,29,0,0
+1631890891094,52,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890891123,42,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890891147,46,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,46,0,0
+1631890891165,28,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,28,0,0
+1631890891194,26,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890891194,56,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890891220,31,GET Activity,200,OK,Endurance 1-2,text,true,,350,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,31,0,0
+1631890891251,48,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890891251,48,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,48,0,0
+1631890891300,19,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,19,0,0
+1631890891300,21,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890891321,29,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,29,0,0
+1631890891320,52,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890891351,34,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890891372,30,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,30,0,0
+1631890891386,27,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,27,0,0
+1631890891403,24,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890891428,21,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,21,0,0
+1631890891414,54,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890891449,37,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890891468,38,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,38,0,0
+1631890891486,29,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,29,0,0
+1631890891507,31,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,31,0,0
+1631890891516,43,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,24,0,0
+1631890891539,26,GET Activity,200,OK,Endurance 1-1,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,26,0,0
+1631890891560,30,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,30,0,0
+1631890891566,40,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890891591,31,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,31,0,0
+1631890891607,19,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,19,0,0
+1631890891623,28,GET Activity,200,OK,Endurance 1-2,text,true,,352,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,28,0,0
+1631890891627,53,GET All Books,200,OK,Endurance 1-1,text,true,,97356,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890891651,39,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,33,0,0
+1631890891691,30,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,30,0,0
+1631890891680,42,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,41,0,0
+1631890891722,44,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,32,0,0
+1631890891725,42,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,42,0,0
+1631890891768,23,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,23,0,0
+1631890891766,32,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,32,0,0
+1631890891798,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890891792,34,GET All Authors,200,OK,Endurance 1-1,text,true,,63267,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890891824,35,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,35,0,0
+1631890891826,33,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,33,0,0
+1631890891860,34,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,20,0,0
+1631890891860,59,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890891894,26,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,26,0,0
+1631890891919,33,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,33,0,0
+1631890891920,49,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,32,0,0
+1631890891952,36,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,36,0,0
+1631890891970,38,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,38,0,0
+1631890891988,29,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,29,0,0
+1631890892008,19,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,19,0,0
+1631890892017,31,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890892028,21,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,21,0,0
+1631890892049,44,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890892048,45,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,45,0,0
+1631890892093,23,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,23,0,0
+1631890892093,46,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890892116,49,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,32,0,0
+1631890892139,30,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,30,0,0
+1631890892165,31,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,30,0,0
+1631890892169,30,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890892196,27,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890892199,24,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,24,0,0
+1631890892223,20,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,20,0,0
+1631890892223,40,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890892243,30,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890892264,23,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,23,0,0
+1631890892274,30,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,30,0,0
+1631890892287,49,GET All Books,200,OK,Endurance 1-1,text,true,,97396,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890892304,53,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890892337,30,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,30,0,0
+1631890892358,30,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,30,0,0
+1631890892367,25,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890892392,23,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,23,0,0
+1631890892389,26,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890892415,26,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,26,0,0
+1631890892415,32,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890892448,23,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,23,0,0
+1631890892442,45,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,33,0,0
+1631890892487,30,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,30,0,0
+1631890892471,59,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,41,0,0
+1631890892517,66,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,45,0,0
+1631890892530,53,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,53,0,0
+1631890892584,27,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890892583,33,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,33,0,0
+1631890892617,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890892611,32,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,32,0,0
+1631890892640,41,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,41,0,0
+1631890892644,38,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890892682,26,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,26,0,0
+1631890892681,31,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890892713,23,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,23,0,0
+1631890892709,55,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890892737,73,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,44,0,0
+1631890892764,46,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,46,0,0
+1631890892811,25,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890892811,28,GET Book,200,OK,Endurance 1-2,text,true,,743,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,28,0,0
+1631890892836,19,GET Activity,200,OK,Endurance 1-1,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,19,0,0
+1631890892840,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890892864,20,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,20,0,0
+1631890892855,49,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890892885,34,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890892904,23,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,23,0,0
+1631890892919,27,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,27,0,0
+1631890892927,59,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,41,0,0
+1631890892946,65,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890892986,29,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,29,0,0
+1631890893016,32,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,32,0,0
+1631890893012,41,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,41,0,0
+1631890893048,22,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,22,0,0
+1631890893053,30,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890893070,37,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890893083,27,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,27,0,0
+1631890893108,22,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,22,0,0
+1631890893110,37,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,20,0,0
+1631890893148,28,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,28,0,0
+1631890893131,57,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,43,0,0
+1631890893188,33,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,33,0,0
+1631890893177,57,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,45,0,0
+1631890893222,28,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890893234,26,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,26,0,0
+1631890893250,20,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,20,0,0
+1631890893261,28,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890893270,49,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,40,0,0
+1631890893290,32,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,32,0,0
+1631890893319,28,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,28,0,0
+1631890893322,35,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890893357,34,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,34,0,0
+1631890893347,47,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,27,0,0
+1631890893394,25,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,25,0,0
+1631890893392,44,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,28,0,0
+1631890893419,37,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,37,0,0
+1631890893436,33,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,33,0,0
+1631890893456,28,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,28,0,0
+1631890893469,29,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890893484,34,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890893498,24,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,24,0,0
+1631890893519,26,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,26,0,0
+1631890893522,45,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890893545,53,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890893567,32,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,32,0,0
+1631890893599,29,GET Book,200,OK,Endurance 1-1,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,29,0,0
+1631890893599,56,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890893629,28,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890893657,24,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,24,0,0
+1631890893655,29,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,29,0,0
+1631890893681,26,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890893685,29,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890893707,27,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,27,0,0
+1631890893714,24,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,24,0,0
+1631890893738,32,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890893734,60,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890893771,23,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,23,0,0
+1631890893794,37,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,37,0,0
+1631890893794,44,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,32,0,0
+1631890893831,27,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890893838,38,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,38,0,0
+1631890893858,24,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,24,0,0
+1631890893876,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890893882,32,GET All Authors,200,OK,Endurance 1-1,text,true,,34683,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890893899,28,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,27,0,0
+1631890893915,22,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,22,0,0
+1631890893927,40,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890893938,43,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890893968,28,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,28,0,0
+1631890893989,30,GET Book,200,OK,Endurance 1-1,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,30,0,0
+1631890893997,50,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,30,0,0
+1631890894019,29,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890894048,20,GET Activity,200,OK,Endurance 1-1,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,20,0,0
+1631890894047,30,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,30,0,0
+1631890894068,46,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890894078,37,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,37,0,0
+1631890894115,20,GET Activity,200,OK,Endurance 1-2,text,true,,352,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,20,0,0
+1631890894115,22,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,22,0,0
+1631890894135,38,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890894137,54,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890894174,20,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,20,0,0
+1631890894192,29,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,29,0,0
+1631890894194,60,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890894222,32,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,32,0,0
+1631890894254,43,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,43,0,0
+1631890894255,42,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,42,0,0
+1631890894297,28,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890894297,35,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890894326,34,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,34,0,0
+1631890894332,32,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,32,0,0
+1631890894361,43,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,36,0,0
+1631890894364,58,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,41,0,0
+1631890894404,26,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,26,0,0
+1631890894422,41,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,41,0,0
+1631890894430,53,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890894463,46,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,46,0,0
+1631890894496,30,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,30,0,0
+1631890894509,22,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,22,0,0
+1631890894527,29,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890894531,30,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890894556,24,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,24,0,0
+1631890894562,29,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,29,0,0
+1631890894580,41,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890894591,56,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890894621,32,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,32,0,0
+1631890894653,49,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890894648,55,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,54,0,0
+1631890894704,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890894703,27,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,27,0,0
+1631890894727,34,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,33,0,0
+1631890894730,31,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,31,0,0
+1631890894761,33,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890894761,33,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,33,0,0
+1631890894794,20,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,20,0,0
+1631890894794,32,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890894814,43,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,28,0,0
+1631890894826,31,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,31,0,0
+1631890894858,47,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,32,0,0
+1631890894858,47,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,47,0,0
+1631890894906,30,GET All Activities,200,OK,Endurance 1-1,text,true,,3049,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890894905,35,GET Book,200,OK,Endurance 1-2,text,true,,739,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,35,0,0
+1631890894941,21,GET All Activities,200,OK,Endurance 1-2,text,true,,3049,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890894937,27,GET Activity,200,OK,Endurance 1-1,text,true,,350,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,27,0,0
+1631890894964,43,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890894962,30,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,30,0,0
+1631890895010,27,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,27,0,0
+1631890895010,32,GET All Authors,200,OK,Endurance 1-2,text,true,,40711,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890895042,20,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,20,0,0
+1631890895038,54,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,48,0,0
+1631890895063,55,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890895092,39,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,39,0,0
+1631890895118,26,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,26,0,0
+1631890895131,34,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,34,0,0
+1631890895145,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890895168,23,GET Activity,200,OK,Endurance 1-2,text,true,,352,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,23,0,0
+1631890895166,25,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,25,0,0
+1631890895191,38,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890895191,38,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890895229,19,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,19,0,0
+1631890895229,19,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,19,0,0
+1631890895249,63,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890895249,70,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890895312,28,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,28,0,0
+1631890895319,32,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,32,0,0
+1631890895341,25,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890895351,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890895366,27,GET Activity,200,OK,Endurance 1-1,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,27,0,0
+1631890895375,18,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,18,0,0
+1631890895394,34,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890895394,36,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890895428,27,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,27,0,0
+1631890895430,27,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,27,0,0
+1631890895458,65,GET All Books,200,OK,Endurance 1-1,text,true,,97398,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890895456,75,GET All Books,200,OK,Endurance 1-2,text,true,,97412,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890895523,33,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,33,0,0
+1631890895531,27,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,27,0,0
+1631890895558,22,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890895556,26,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890895580,19,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,19,0,0
+1631890895582,29,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,29,0,0
+1631890895599,37,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890895611,30,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890895638,34,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,34,0,0
+1631890895641,36,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,36,0,0
+1631890895678,57,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890895672,65,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890895738,24,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,24,0,0
+1631890895735,31,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,31,0,0
+1631890895763,24,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890895766,23,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890895787,20,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,20,0,0
+1631890895789,27,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,27,0,0
+1631890895807,27,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890895817,30,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890895835,25,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,25,0,0
+1631890895847,22,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,22,0,0
+1631890895861,51,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890895869,57,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,43,0,0
+1631890895912,32,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,32,0,0
+1631890895926,28,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,28,0,0
+1631890895944,22,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890895955,23,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890895967,27,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,27,0,0
+1631890895979,27,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,27,0,0
+1631890895995,29,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890896006,46,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890896027,28,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,28,0,0
+1631890896052,23,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,23,0,0
+1631890896055,50,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890896075,55,GET All Books,200,OK,Endurance 1-1,text,true,,97342,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890896106,30,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,30,0,0
+1631890896130,33,GET Book,200,OK,Endurance 1-1,text,true,,739,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,33,0,0
+1631890896136,27,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890896163,27,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,27,0,0
+1631890896163,27,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890896191,20,GET Activity,200,OK,Endurance 1-1,text,true,,350,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,20,0,0
+1631890896191,29,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890896211,33,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890896220,30,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,30,0,0
+1631890896244,27,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,27,0,0
+1631890896250,43,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,28,0,0
+1631890896294,44,GET Book,200,OK,Endurance 1-2,text,true,,739,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,44,0,0
+1631890896271,67,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890896338,37,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,37,0,0
+1631890896338,37,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,37,0,0
+1631890896376,20,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,20,0,0
+1631890896376,21,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890896397,19,GET Activity,200,OK,Endurance 1-1,text,true,,352,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,19,0,0
+1631890896396,29,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890896416,33,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890896425,25,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,25,0,0
+1631890896450,27,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,27,0,0
+1631890896450,49,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890896499,30,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,30,0,0
+1631890896477,46,GET All Books,200,OK,Endurance 1-1,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,26,0,0
+1631890896530,24,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890896530,34,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,34,0,0
+1631890896555,23,GET Activity,200,OK,Endurance 1-2,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,23,0,0
+1631890896564,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890896579,45,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890896586,38,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,38,0,0
+1631890896624,22,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,22,0,0
+1631890896624,32,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890896656,33,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,33,0,0
+1631890896646,51,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,29,0,0
+1631890896698,41,GET Book,200,OK,Endurance 1-2,text,true,,742,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,41,0,0
+1631890896689,54,GET All Books,200,OK,Endurance 1-1,text,true,,97499,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890896742,21,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890896743,39,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,39,0,0
+1631890896763,19,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,19,0,0
+1631890896782,21,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890896783,46,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890896804,25,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,25,0,0
+1631890896829,22,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,22,0,0
+1631890896829,38,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890896868,35,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,35,0,0
+1631890896852,51,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890896903,32,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,32,0,0
+1631890896903,51,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890896936,21,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890896958,20,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,20,0,0
+1631890896955,31,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,31,0,0
+1631890896978,32,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890896987,25,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890897011,26,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,26,0,0
+1631890897012,25,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,25,0,0
+1631890897038,30,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890897038,42,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,28,0,0
+1631890897068,29,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,29,0,0
+1631890897080,36,GET Book,200,OK,Endurance 1-2,text,true,,739,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,36,0,0
+1631890897097,42,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,26,0,0
+1631890897117,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890897140,28,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,28,0,0
+1631890897140,29,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,29,0,0
+1631890897170,25,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890897168,41,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890897195,23,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,23,0,0
+1631890897210,24,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,24,0,0
+1631890897219,33,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890897234,39,GET All Books,200,OK,Endurance 1-2,text,true,,97139,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,24,0,0
+1631890897252,23,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,23,0,0
+1631890897273,30,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,30,0,0
+1631890897275,63,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890897303,35,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,35,0,0
+1631890897338,28,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,28,0,0
+1631890897338,34,GET Book,200,OK,Endurance 1-1,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,34,0,0
+1631890897372,20,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,20,0,0
+1631890897367,41,GET All Authors,200,OK,Endurance 1-2,text,true,,62147,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890897393,31,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,31,0,0
+1631890897409,28,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,28,0,0
+1631890897425,34,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890897438,52,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,46,0,0
+1631890897459,31,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,31,0,0
+1631890897490,28,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,28,0,0
+1631890897519,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890897490,48,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890897551,27,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,27,0,0
+1631890897551,37,GET Book,200,OK,Endurance 1-1,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,37,0,0
+1631890897578,27,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890897589,21,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890897605,23,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,23,0,0
+1631890897610,31,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,30,0,0
+1631890897629,48,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890897641,50,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,36,0,0
+1631890897677,38,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,38,0,0
+1631890897692,27,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,27,0,0
+1631890897716,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890897719,52,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890897741,30,GET Activity,200,OK,Endurance 1-2,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,30,0,0
+1631890897771,47,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890897771,48,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,48,0,0
+1631890897819,30,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890897819,34,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,34,0,0
+1631890897849,25,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,25,0,0
+1631890897853,49,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890897875,39,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890897902,32,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,32,0,0
+1631890897914,32,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,32,0,0
+1631890897935,28,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890897963,18,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,18,0,0
+1631890897947,54,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890897981,28,GET All Authors,200,OK,Endurance 1-2,text,true,,37551,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890898001,31,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,31,0,0
+1631890898010,23,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,23,0,0
+1631890898033,34,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,34,0,0
+1631890898034,55,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890898067,24,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,24,0,0
+1631890898091,31,GET All Authors,200,OK,Endurance 1-1,text,true,,47295,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890898090,33,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,33,0,0
+1631890898123,29,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890898123,29,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,29,0,0
+1631890898152,27,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,27,0,0
+1631890898152,56,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890898179,43,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890898209,36,GET Book,200,OK,Endurance 1-1,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,36,0,0
+1631890898223,31,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,31,0,0
+1631890898245,35,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,35,0,0
+1631890898280,22,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,22,0,0
+1631890898254,69,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,53,0,0
+1631890898302,36,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890898324,33,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,33,0,0
+1631890898338,23,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,23,0,0
+1631890898357,30,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890898361,50,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890898387,24,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,24,0,0
+1631890898411,38,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890898411,39,GET Book,200,OK,Endurance 1-1,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,39,0,0
+1631890898449,26,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,26,0,0
+1631890898450,25,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890898476,20,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,20,0,0
+1631890898476,47,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,30,0,0
+1631890898496,41,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,34,0,0
+1631890898523,36,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,36,0,0
+1631890898537,28,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,28,0,0
+1631890898560,24,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890898565,48,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,26,0,0
+1631890898584,40,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,40,0,0
+1631890898614,38,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,38,0,0
+1631890898625,45,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890898653,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890898670,21,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,21,0,0
+1631890898675,25,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,25,0,0
+1631890898701,44,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890898692,63,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890898745,36,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,36,0,0
+1631890898756,32,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,32,0,0
+1631890898788,28,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890898781,54,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,27,0,0
+1631890898817,33,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,33,0,0
+1631890898836,33,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,33,0,0
+1631890898850,27,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890898878,19,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,19,0,0
+1631890898869,29,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890898899,22,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,22,0,0
+1631890898898,50,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890898921,46,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,37,0,0
+1631890898949,32,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,32,0,0
+1631890898967,35,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,35,0,0
+1631890898981,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890899007,20,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,20,0,0
+1631890899003,60,GET All Books,200,OK,Endurance 1-1,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890899027,51,GET All Authors,200,OK,Endurance 1-2,text,true,,61267,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,36,0,0
+1631890899078,27,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,27,0,0
+1631890899064,41,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,41,0,0
+1631890899105,23,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890899105,51,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890899128,36,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,36,0,0
+1631890899157,29,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,29,0,0
+1631890899165,31,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890899187,28,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890899196,33,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,33,0,0
+1631890899215,27,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,27,0,0
+1631890899229,45,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,32,0,0
+1631890899243,44,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890899275,35,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,35,0,0
+1631890899287,25,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,25,0,0
+1631890899310,24,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890899312,51,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,28,0,0
+1631890899334,32,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,32,0,0
+1631890899364,23,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,23,0,0
+1631890899366,35,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890899387,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890899401,20,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,20,0,0
+1631890899411,20,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,20,0,0
+1631890899431,32,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890899421,55,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890899463,28,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,28,0,0
+1631890899476,36,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,36,0,0
+1631890899492,45,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,29,0,0
+1631890899512,30,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890899542,25,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,25,0,0
+1631890899538,47,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,47,0,0
+1631890899568,34,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890899590,26,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890899602,26,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,26,0,0
+1631890899617,21,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,21,0,0
+1631890899628,55,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890899639,55,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,44,0,0
+1631890899683,33,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,32,0,0
+1631890899694,22,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,22,0,0
+1631890899716,33,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,33,0,0
+1631890899717,58,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890899749,27,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,27,0,0
+1631890899776,35,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890899776,36,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,36,0,0
+1631890899812,24,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890899811,25,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,25,0,0
+1631890899836,43,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,43,0,0
+1631890899836,62,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,43,0,0
+1631890899879,40,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,34,0,0
+1631890899898,34,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,34,0,0
+1631890899919,21,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,21,0,0
+1631890899932,20,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,20,0,0
+1631890899941,45,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890899952,34,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,34,0,0
+1631890899986,28,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,28,0,0
+1631890899986,37,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890900014,28,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890900023,31,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,31,0,0
+1631890900043,26,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,26,0,0
+1631890900054,60,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890900069,56,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,42,0,0
+1631890900115,33,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,33,0,0
+1631890900125,24,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,24,0,0
+1631890900148,23,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890900149,48,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,30,0,0
+1631890900171,29,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,29,0,0
+1631890900200,37,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890900197,42,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,42,0,0
+1631890900237,22,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,22,0,0
+1631890900239,36,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,36,0,0
+1631890900275,37,GET Activity,200,OK,Endurance 1-2,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,37,0,0
+1631890900259,59,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890900318,28,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,28,0,0
+1631890900312,36,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890900346,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890900348,22,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,22,0,0
+1631890900369,21,GET Activity,200,OK,Endurance 1-1,text,true,,352,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,21,0,0
+1631890900370,50,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890900390,56,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890900420,33,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,33,0,0
+1631890900447,29,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,29,0,0
+1631890900455,22,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890900477,25,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,25,0,0
+1631890900477,62,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890900503,42,GET All Authors,200,OK,Endurance 1-2,text,true,,32123,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,36,0,0
+1631890900545,28,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,28,0,0
+1631890900540,33,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,33,0,0
+1631890900575,42,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,42,0,0
+1631890900575,55,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890900617,29,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,29,0,0
+1631890900630,31,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,31,0,0
+1631890900646,41,GET All Authors,200,OK,Endurance 1-1,text,true,,56467,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890900662,26,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890900688,24,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,24,0,0
+1631890900688,24,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,24,0,0
+1631890900712,32,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890900712,46,GET All Books,200,OK,Endurance 1-1,text,true,,97533,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890900744,25,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,25,0,0
+1631890900759,32,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,32,0,0
+1631890900769,45,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890900792,28,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890900820,21,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,21,0,0
+1631890900815,28,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,28,0,0
+1631890900841,27,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890900844,26,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890900869,25,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,25,0,0
+1631890900871,28,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,28,0,0
+1631890900899,30,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,19,0,0
+1631890900894,52,GET All Books,200,OK,Endurance 1-1,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890900930,22,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,22,0,0
+1631890900946,37,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,37,0,0
+1631890900952,52,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890900984,31,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,31,0,0
+1631890901015,20,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,20,0,0
+1631890901004,31,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,31,0,0
+1631890901036,19,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,18,0,0
+1631890901036,28,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,20,0,0
+1631890901055,18,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,18,0,0
+1631890901065,20,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,20,0,0
+1631890901073,38,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890901085,54,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,28,0,0
+1631890901111,29,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,29,0,0
+1631890901139,49,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,49,0,0
+1631890901140,63,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,49,0,0
+1631890901189,37,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,37,0,0
+1631890901204,29,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,29,0,0
+1631890901233,19,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,19,0,0
+1631890901226,26,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,26,0,0
+1631890901253,22,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,22,0,0
+1631890901253,32,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890901276,43,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890901285,35,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,35,0,0
+1631890901319,25,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,25,0,0
+1631890901320,44,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890901344,50,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890901365,38,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,38,0,0
+1631890901394,29,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,29,0,0
+1631890901404,34,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,34,0,0
+1631890901423,30,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890901438,22,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,22,0,0
+1631890901453,25,GET Activity,200,OK,Endurance 1-2,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,25,0,0
+1631890901461,41,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890901479,34,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890901502,34,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,34,0,0
+1631890901513,26,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,26,0,0
+1631890901539,41,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,25,0,0
+1631890901536,62,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890901580,46,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,46,0,0
+1631890901598,28,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,28,0,0
+1631890901626,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890901629,35,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,35,0,0
+1631890901650,26,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,26,0,0
+1631890901664,21,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,21,0,0
+1631890901677,32,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890901686,33,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890901710,27,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,27,0,0
+1631890901719,29,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,29,0,0
+1631890901737,51,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890901749,57,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890901788,43,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,43,0,0
+1631890901807,36,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,36,0,0
+1631890901832,20,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,20,0,0
+1631890901844,36,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,36,0,0
+1631890901852,31,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,31,0,0
+1631890901880,25,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,25,0,0
+1631890901883,48,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,37,0,0
+1631890901905,42,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890901931,22,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,22,0,0
+1631890901947,26,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,26,0,0
+1631890901954,51,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890901973,50,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890902005,35,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,35,0,0
+1631890902024,34,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,34,0,0
+1631890902041,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890902059,28,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890902064,24,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,24,0,0
+1631890902087,25,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,25,0,0
+1631890902088,74,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890902113,55,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,50,0,0
+1631890902163,25,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,25,0,0
+1631890902168,20,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,20,0,0
+1631890902189,59,GET All Books,200,OK,Endurance 1-2,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,26,0,0
+1631890902189,62,GET All Books,200,OK,Endurance 1-1,text,true,,97339,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,32,0,0
+1631890902249,36,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,36,0,0
+1631890902251,37,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,37,0,0
+1631890902286,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890902288,33,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,33,0,0
+1631890902312,25,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,25,0,0
+1631890902322,25,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,25,0,0
+1631890902338,34,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,20,0,0
+1631890902348,59,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890902373,36,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,36,0,0
+1631890902408,28,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,28,0,0
+1631890902409,59,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890902436,56,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,43,0,0
+1631890902468,29,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,29,0,0
+1631890902492,31,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,31,0,0
+1631890902497,30,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890902524,23,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890902527,23,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,23,0,0
+1631890902548,33,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,33,0,0
+1631890902551,47,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890902581,35,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890902598,22,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,22,0,0
+1631890902616,25,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,25,0,0
+1631890902621,45,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,24,0,0
+1631890902642,40,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,26,0,0
+1631890902666,31,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,31,0,0
+1631890902682,30,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,30,0,0
+1631890902698,21,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890902713,29,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890902719,30,GET Activity,200,OK,Endurance 1-2,text,true,,352,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,30,0,0
+1631890902743,27,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,26,0,0
+1631890902749,29,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,20,0,0
+1631890902778,29,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,29,0,0
+1631890902770,38,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890902808,36,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,36,0,0
+1631890902808,89,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,45,0,0
+1631890902845,61,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,52,0,0
+1631890902907,28,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,28,0,0
+1631890902897,38,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,38,0,0
+1631890902937,21,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890902936,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890902958,26,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,26,0,0
+1631890902959,26,GET Activity,200,OK,Endurance 1-1,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,26,0,0
+1631890902984,37,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890902985,37,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890903021,23,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,23,0,0
+1631890903022,27,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,27,0,0
+1631890903044,46,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,26,0,0
+1631890903049,55,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890903090,29,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,29,0,0
+1631890903104,29,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,29,0,0
+1631890903119,23,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890903133,21,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890903145,26,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,26,0,0
+1631890903154,28,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,28,0,0
+1631890903182,31,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890903171,42,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890903214,20,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,20,0,0
+1631890903214,22,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,22,0,0
+1631890903235,46,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,24,0,0
+1631890903236,60,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,46,0,0
+1631890903282,47,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,47,0,0
+1631890903296,37,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,37,0,0
+1631890903330,20,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,20,0,0
+1631890903351,21,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,21,0,0
+1631890903333,39,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,39,0,0
+1631890903372,27,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,27,0,0
+1631890903372,33,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890903406,22,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,22,0,0
+1631890903400,63,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,35,0,0
+1631890903429,56,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890903464,26,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,26,0,0
+1631890903486,26,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,26,0,0
+1631890903490,55,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890903512,38,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,38,0,0
+1631890903546,27,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,26,0,0
+1631890903550,26,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,26,0,0
+1631890903573,24,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890903576,41,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890903598,27,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,27,0,0
+1631890903618,20,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,20,0,0
+1631890903626,35,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890903639,60,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,43,0,0
+1631890903664,35,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,35,0,0
+1631890903699,34,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,34,0,0
+1631890903699,72,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890903733,38,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,38,0,0
+1631890903771,25,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,25,0,0
+1631890903771,32,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,32,0,0
+1631890903803,19,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,19,0,0
+1631890903796,40,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890903823,33,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,33,0,0
+1631890903836,27,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,27,0,0
+1631890903857,39,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890903863,54,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890903897,25,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,25,0,0
+1631890903917,38,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,38,0,0
+1631890903922,47,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890903955,29,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890903969,41,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,41,0,0
+1631890903984,27,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,27,0,0
+1631890904011,21,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890904011,32,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890904033,29,GET Activity,200,OK,Endurance 1-1,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,29,0,0
+1631890904043,25,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,25,0,0
+1631890904062,46,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,40,0,0
+1631890904069,54,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890904108,34,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,33,0,0
+1631890904124,34,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,34,0,0
+1631890904142,47,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890904164,27,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890904191,26,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,26,0,0
+1631890904189,38,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,38,0,0
+1631890904218,35,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890904229,29,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631890904259,20,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,20,0,0
+1631890904254,25,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,25,0,0
+1631890904279,32,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890904280,49,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890904312,25,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,25,0,0
+1631890904330,35,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,35,0,0
+1631890904337,57,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890904365,31,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,31,0,0
+1631890904396,28,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,28,0,0
+1631890904395,37,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,37,0,0
+1631890904424,28,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631890904433,23,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890904452,21,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,21,0,0
+1631890904457,28,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,28,0,0
+1631890904486,42,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,33,0,0
+1631890904474,56,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890904529,41,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,41,0,0
+1631890904530,44,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,44,0,0
+1631890904574,26,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890904571,51,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890904600,29,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,29,0,0
+1631890904622,36,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,36,0,0
+1631890904630,27,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,19,0,0
+1631890904666,28,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,28,0,0
+1631890904666,33,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,33,0,0
+1631890904699,23,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,23,0,0
+1631890904694,52,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890904722,35,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890904746,32,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,32,0,0
+1631890904757,21,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,21,0,0
+1631890904778,1927,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,1927,0,0
+1631890906705,24,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,24,0,0
+1631890906729,181,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890906911,22,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,22,0,0
+1631890904778,2165,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,1929,0,0
+1631890906943,27,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,27,0,0
+1631890906971,28,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890906999,24,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,24,0,0
+1631890906934,173,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890907024,96,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631890907107,28,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,28,0,0
+1631890907120,21,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,21,0,0
+1631890907135,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890907160,29,GET Activity,200,OK,Endurance 1-2,text,true,,350,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,29,0,0
+1631890907189,47,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890907236,26,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,26,0,0
+1631890907141,133,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890907274,34,GET Book,200,OK,Endurance 1-1,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,34,0,0
+1631890907308,25,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890907333,23,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,23,0,0
+1631890907262,119,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631890907356,46,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890907381,36,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,36,0,0
+1631890907403,23,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,23,0,0
+1631890907418,27,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890907445,22,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,22,0,0
+1631890907426,134,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890907467,115,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890907560,31,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,31,0,0
+1631890907582,21,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,21,0,0
+1631890907591,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890907613,39,GET Activity,200,OK,Endurance 1-1,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,39,0,0
+1631890907652,36,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631890907603,104,GET All Books,200,OK,Endurance 1-2,text,true,,97378,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,30,0,0
+1631890907688,46,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,46,0,0
+1631890907708,34,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,34,0,0
+1631890907743,30,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890907773,27,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,27,0,0
+1631890907734,117,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,47,0,0
+1631890907800,57,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890907857,23,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,23,0,0
+1631890907851,35,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,34,0,0
+1631890907887,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890907910,32,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,32,0,0
+1631890907880,85,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890907942,31,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890907966,28,GET Book,200,OK,Endurance 1-2,text,true,,743,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,28,0,0
+1631890907973,25,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,25,0,0
+1631890907994,21,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890908015,21,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,21,0,0
+1631890908036,31,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890907998,95,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890908068,28,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,28,0,0
+1631890908093,34,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,34,0,0
+1631890908127,35,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,35,0,0
+1631890908096,84,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890908162,337,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,337,0,0
+1631890908180,329,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,329,0,0
+1631890908499,53,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890908510,42,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,42,0,0
+1631890908553,41,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,41,0,0
+1631890908553,41,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,41,0,0
+1631890908595,91,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890908595,91,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890908686,30,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,30,0,0
+1631890908686,39,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,39,0,0
+1631890908725,19,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,19,0,0
+1631890908745,21,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,21,0,0
+1631890908766,40,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890908716,98,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,24,0,0
+1631890908806,27,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,27,0,0
+1631890908814,24,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,24,0,0
+1631890908839,27,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890908834,67,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890908867,34,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,34,0,0
+1631890908901,29,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,29,0,0
+1631890908901,39,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890908931,20,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,20,0,0
+1631890908940,20,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,20,0,0
+1631890908951,34,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,34,0,0
+1631890908985,53,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890908960,99,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,31,0,0
+1631890909038,31,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,31,0,0
+1631890909059,23,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,23,0,0
+1631890909082,27,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890909069,59,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,27,0,0
+1631890909109,28,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,28,0,0
+1631890909128,32,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,32,0,0
+1631890909137,49,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890909160,28,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890909186,30,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,30,0,0
+1631890909189,28,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,28,0,0
+1631890909218,27,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890909247,37,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,37,0,0
+1631890909217,104,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,29,0,0
+1631890909284,74,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890909321,44,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,44,0,0
+1631890909366,22,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890909359,30,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,30,0,0
+1631890909389,32,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,31,0,0
+1631890909388,36,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,36,0,0
+1631890909421,31,GET Activity,200,OK,Endurance 1-1,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,31,0,0
+1631890909424,31,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890909455,38,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,38,0,0
+1631890909453,47,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,22,0,0
+1631890909500,33,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,33,0,0
+1631890909493,94,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890909534,66,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,29,0,0
+1631890909588,37,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,37,0,0
+1631890909601,34,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,34,0,0
+1631890909625,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890909636,26,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890909650,19,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,19,0,0
+1631890909663,30,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,30,0,0
+1631890909693,43,GET All Authors,200,OK,Endurance 1-1,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890909669,85,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,38,0,0
+1631890909737,28,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,28,0,0
+1631890909754,26,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,26,0,0
+1631890909766,69,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890909835,34,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,34,0,0
+1631890909781,112,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890909869,33,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,33,0,0
+1631890909894,29,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,29,0,0
+1631890909902,30,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,30,0,0
+1631890909923,27,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,27,0,0
+1631890909932,42,GET All Authors,200,OK,Endurance 1-1,text,true,,62015,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631890909950,25,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,24,0,0
+1631890909975,25,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,25,0,0
+1631890909975,30,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890910005,18,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,18,0,0
+1631890910000,72,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631890910023,74,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890910072,31,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,31,0,0
+1631890910103,26,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,26,0,0
+1631890910097,36,GET Book,200,OK,Endurance 1-2,text,true,,740,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,36,0,0
+1631890910129,24,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,24,0,0
+1631890910133,26,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,20,0,0
+1631890910153,31,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,24,0,0
+1631890910159,25,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,25,0,0
+1631890910184,29,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,29,0,0
+1631890910185,40,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631890910225,39,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,39,0,0
+1631890910214,77,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631890910291,28,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,28,0,0
+1631890910264,91,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890910319,41,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,41,0,0
+1631890910360,19,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,19,0,0
+1631890910355,35,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,35,0,0
+1631890910391,18,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,18,0,0
+1631890910380,51,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,47,0,0
+1631890910409,22,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,22,0,0
+1631890910432,27,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,27,0,0
+1631890910432,33,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890910465,25,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,25,0,0
+1631890910459,81,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,42,0,0
+1631890910490,67,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890910540,35,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,35,0,0
+1631890910558,29,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,29,0,0
+1631890910576,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890910589,19,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,19,0,0
+1631890910598,25,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/8,25,0,0
+1631890910608,22,GET Activity,200,OK,Endurance 1-2,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/9,22,0,0
+1631890910630,49,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,26,0,0
+1631890910623,56,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,40,0,0
+1631890910680,29,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,29,0,0
+1631890910680,30,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/9,30,0,0
+1631890910710,79,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890910710,82,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,50,0,0
+1631890910790,32,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/9,32,0,0
+1631890910792,32,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/8,32,0,0
+1631890910823,21,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,21,0,0
+1631890910825,32,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,32,0,0
+1631890910845,30,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/10,30,0,0
+1631890910857,28,GET Activity,200,OK,Endurance 1-1,text,true,,354,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/11,28,0,0
+1631890910876,57,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,33,0,0
+1631890910886,60,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,48,0,0
+1631890910934,27,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/10,27,0,0
+1631890910946,26,GET Author,200,OK,Endurance 1-1,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/11,26,0,0
+1631890910961,70,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,33,0,0
+1631890910973,74,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,35,0,0
+1631890911031,34,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/10,34,0,0
+1631890911047,29,GET Book,200,OK,Endurance 1-1,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/11,29,0,0
+1631890911065,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890911077,23,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,23,0,0
+1631890911090,32,GET Activity,200,OK,Endurance 1-2,text,true,,353,179,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/12,32,0,0
+1631890911101,28,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/1,28,0,0
+1631890911122,46,GET All Authors,200,OK,Endurance 1-2,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,34,0,0
+1631890911130,46,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,38,0,0
+1631890911168,30,GET Author,200,OK,Endurance 1-2,text,true,,333,176,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/12,30,0,0
+1631890911176,22,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/1,22,0,0
+1631890911198,70,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,34,0,0
+1631890911198,75,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631890911276,23,GET Book,200,OK,Endurance 1-2,text,true,,744,174,2,2,https://bobby-appservice.azurewebsites.net/api/Books/12,23,0,0
+1631890911268,40,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/1,40,0,0
+1631890911299,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890911308,28,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,28,0,0
+1631890911325,21,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/2,21,0,0
+1631890911336,30,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/3,30,0,0
+1631890911347,36,GET All Authors,200,OK,Endurance 1-2,text,true,,47615,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,28,0,0
+1631890911367,32,GET All Authors,200,OK,Endurance 1-1,text,true,,63507,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890911383,24,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/2,24,0,0
+1631890911400,25,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/3,25,0,0
+1631890911407,81,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631890911426,77,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,46,0,0
+1631890911488,38,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/2,38,0,0
+1631890911503,28,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/3,28,0,0
+1631890911527,25,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,25,0,0
+1631890911532,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890911553,27,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/4,27,0,0
+1631890911554,26,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/5,26,0,0
+1631890911581,27,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,20,0,0
+1631890911581,30,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,23,0,0
+1631890911608,23,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/4,23,0,0
+1631890911611,20,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/5,20,0,0
+1631890911631,68,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,26,0,0
+1631890911631,69,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,30,0,0
+1631890911699,28,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/4,28,0,0
+1631890911700,29,GET Book,200,OK,Endurance 1-1,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/5,29,0,0
+1631890911727,24,GET All Activities,200,OK,Endurance 1-2,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,24,0,0
+1631890911729,22,GET All Activities,200,OK,Endurance 1-1,text,true,,3109,176,2,2,https://bobby-appservice.azurewebsites.net/api/Activities,22,0,0
+1631890911752,29,GET Activity,200,OK,Endurance 1-2,text,true,,351,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/6,29,0,0
+1631890911752,29,GET Activity,200,OK,Endurance 1-1,text,true,,352,178,2,2,https://bobby-appservice.azurewebsites.net/api/Activities/7,29,0,0
+1631890911785,31,GET All Authors,200,OK,Endurance 1-2,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,25,0,0
+1631890911785,34,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,2,2,https://bobby-appservice.azurewebsites.net/api/Authors,27,0,0
+1631890911817,19,GET Author,200,OK,Endurance 1-2,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/6,19,0,0
+1631890911820,29,GET Author,200,OK,Endurance 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/7,29,0,0
+1631890911836,68,GET All Books,200,OK,Endurance 1-2,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,32,0,0
+1631890911849,65,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,41,0,0
+1631890911904,34,GET Book,200,OK,Endurance 1-2,text,true,,741,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/6,34,0,0
+1631890911914,33,GET Book,200,OK,Endurance 1-1,text,true,,741,173,1,1,https://bobby-appservice.azurewebsites.net/api/Books/7,33,0,0
+1631890911947,30,GET All Activities,200,OK,Endurance 1-1,text,true,,3079,176,1,1,https://bobby-appservice.azurewebsites.net/api/Activities,30,0,0
+1631890911978,29,GET Activity,200,OK,Endurance 1-1,text,true,,351,178,1,1,https://bobby-appservice.azurewebsites.net/api/Activities/8,29,0,0
+1631890912007,26,GET All Authors,200,OK,Endurance 1-1,text,true,,31723,173,1,1,https://bobby-appservice.azurewebsites.net/api/Authors,20,0,0
+1631890912034,22,GET Author,200,OK,Endurance 1-1,text,true,,330,175,1,1,https://bobby-appservice.azurewebsites.net/api/Authors/8,22,0,0
+1631890912056,74,GET All Books,200,OK,Endurance 1-1,text,true,,97539,171,1,1,https://bobby-appservice.azurewebsites.net/api/Books,46,0,0
+1631890912130,35,GET Book,200,OK,Endurance 1-1,text,true,,741,173,1,1,https://bobby-appservice.azurewebsites.net/api/Books/8,35,0,0

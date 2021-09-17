@@ -1,0 +1,1201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1631891186964,505,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,505,0,475
+1631891186664,808,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,808,0,774
+1631891186862,618,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,618,0,575
+1631891187259,221,GET All Activities,200,OK,Stress 1-15,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,221,0,180
+1631891187163,318,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,318,0,277
+1631891187114,367,GET All Activities,200,OK,Stress 1-12,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,367,0,325
+1631891187062,420,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,420,0,377
+1631891187014,473,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,473,0,424
+1631891186812,686,GET All Activities,200,OK,Stress 1-6,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,685,0,639
+1631891187211,288,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,288,0,238
+1631891186900,600,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,600,0,542
+1631891187314,186,GET All Activities,200,OK,Stress 1-16,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,186,0,133
+1631891186561,940,GET All Activities,200,OK,Stress 1-1,text,true,,3109,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,940,0,889
+1631891186750,752,GET All Activities,200,OK,Stress 1-5,text,true,,3079,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,752,0,714
+1631891186704,800,GET All Activities,200,OK,Stress 1-4,text,true,,3079,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,800,0,761
+1631891186608,896,GET All Activities,200,OK,Stress 1-2,text,true,,3079,176,19,19,https://bobby-appservice.azurewebsites.net/api/Activities,896,0,857
+1631891187470,36,GET Activity,200,OK,Stress 1-9,text,true,,351,178,19,19,https://bobby-appservice.azurewebsites.net/api/Activities/9,36,0,0
+1631891187472,34,GET Activity,200,OK,Stress 1-3,text,true,,351,178,19,19,https://bobby-appservice.azurewebsites.net/api/Activities/3,34,0,0
+1631891187480,26,GET Activity,200,OK,Stress 1-7,text,true,,352,178,19,19,https://bobby-appservice.azurewebsites.net/api/Activities/7,26,0,0
+1631891187482,29,GET Activity,200,OK,Stress 1-11,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,29,0,0
+1631891187481,30,GET Activity,200,OK,Stress 1-15,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,30,0,0
+1631891187487,25,GET Activity,200,OK,Stress 1-10,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,25,0,0
+1631891187481,31,GET Activity,200,OK,Stress 1-13,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,31,0,0
+1631891187482,30,GET Activity,200,OK,Stress 1-12,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,30,0,0
+1631891187499,22,GET Activity,200,OK,Stress 1-6,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,22,0,0
+1631891187500,34,GET Activity,200,OK,Stress 1-16,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,34,0,0
+1631891187504,31,GET Activity,200,OK,Stress 1-5,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,31,0,0
+1631891187500,36,GET Activity,200,OK,Stress 1-8,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,35,0,0
+1631891187504,32,GET Activity,200,OK,Stress 1-2,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,32,0,0
+1631891187504,33,GET Activity,200,OK,Stress 1-4,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,33,0,0
+1631891187501,61,GET Activity,200,OK,Stress 1-1,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,61,0,0
+1631891187499,63,GET Activity,200,OK,Stress 1-14,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,63,0,0
+1631891187381,183,GET All Activities,200,OK,Stress 1-17,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,183,0,124
+1631891187415,157,GET All Activities,200,OK,Stress 1-18,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,157,0,90
+1631891187506,88,GET All Authors,200,OK,Stress 1-3,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,33,0,0
+1631891187506,106,GET All Authors,200,OK,Stress 1-9,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,36,0,0
+1631891187512,110,GET All Authors,200,OK,Stress 1-10,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,60,0,0
+1631891187507,115,GET All Authors,200,OK,Stress 1-7,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,57,0,0
+1631891187511,112,GET All Authors,200,OK,Stress 1-11,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,53,0,0
+1631891187512,113,GET All Authors,200,OK,Stress 1-13,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,60,0,0
+1631891187511,115,GET All Authors,200,OK,Stress 1-15,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,55,0,0
+1631891187572,55,GET Activity,200,OK,Stress 1-18,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,55,0,0
+1631891187565,62,GET Activity,200,OK,Stress 1-17,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,62,0,0
+1631891187459,176,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,176,0,107
+1631891187535,107,GET All Authors,200,OK,Stress 1-5,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,55,0,0
+1631891187512,132,GET All Authors,200,OK,Stress 1-12,text,true,,38843,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,77,0,0
+1631891187534,113,GET All Authors,200,OK,Stress 1-16,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,55,0,0
+1631891187521,130,GET All Authors,200,OK,Stress 1-6,text,true,,53215,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,74,0,0
+1631891187595,57,GET Author,200,OK,Stress 1-3,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,57,0,0
+1631891187536,120,GET All Authors,200,OK,Stress 1-2,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,62,0,0
+1631891187537,130,GET All Authors,200,OK,Stress 1-4,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,63,0,0
+1631891187536,133,GET All Authors,200,OK,Stress 1-8,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,67,0,0
+1631891187613,57,GET Author,200,OK,Stress 1-9,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,57,0,0
+1631891187562,109,GET All Authors,200,OK,Stress 1-1,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,70,0,0
+1631891187562,110,GET All Authors,200,OK,Stress 1-14,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,66,0,0
+1631891187623,49,GET Author,200,OK,Stress 1-10,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,49,0,0
+1631891187623,49,GET Author,200,OK,Stress 1-7,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,49,0,0
+1631891187626,46,GET Author,200,OK,Stress 1-13,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,46,0,0
+1631891187627,45,GET Author,200,OK,Stress 1-15,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,45,0,0
+1631891187623,50,GET Author,200,OK,Stress 1-11,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,50,0,0
+1631891187635,39,GET Activity,200,OK,Stress 1-19,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,39,0,0
+1631891187642,41,GET Author,200,OK,Stress 1-5,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,41,0,0
+1631891187652,31,GET Author,200,OK,Stress 1-6,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,31,0,0
+1631891187644,39,GET Author,200,OK,Stress 1-12,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,39,0,0
+1631891187647,36,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,36,0,0
+1631891187657,31,GET Author,200,OK,Stress 1-2,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,31,0,0
+1631891187627,72,GET All Authors,200,OK,Stress 1-17,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,46,0,0
+1631891187627,77,GET All Authors,200,OK,Stress 1-18,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,48,0,0
+1631891187670,40,GET Author,200,OK,Stress 1-8,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,40,0,0
+1631891187671,45,GET Author,200,OK,Stress 1-1,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,45,0,0
+1631891187511,219,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,219,0,161
+1631891187672,62,GET Author,200,OK,Stress 1-14,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,62,0,0
+1631891187667,72,GET Author,200,OK,Stress 1-4,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,72,0,0
+1631891187673,127,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,38,0,0
+1631891187652,154,GET All Books,200,OK,Stress 1-3,text,true,,97376,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,41,0,0
+1631891187673,139,GET All Books,200,OK,Stress 1-11,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,37,0,0
+1631891187670,151,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,49,0,0
+1631891187674,161,GET All Authors,200,OK,Stress 1-19,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,73,0,0
+1631891187731,112,GET Activity,200,OK,Stress 1-20,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,112,0,0
+1631891187673,179,GET All Books,200,OK,Stress 1-13,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,67,0,0
+1631891187704,184,GET Author,200,OK,Stress 1-18,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,184,0,0
+1631891187673,247,GET All Books,200,OK,Stress 1-10,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,84,0,0
+1631891187683,243,GET All Books,200,OK,Stress 1-16,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,79,0,0
+1631891187699,228,GET Author,200,OK,Stress 1-17,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,228,0,0
+1631891187688,248,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,76,0,0
+1631891187673,270,GET All Books,200,OK,Stress 1-15,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,111,0,0
+1631891187812,141,GET Book,200,OK,Stress 1-11,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,141,0,0
+1631891187806,148,GET Book,200,OK,Stress 1-3,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,148,0,0
+1631891187801,153,GET Book,200,OK,Stress 1-7,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,153,0,0
+1631891187836,123,GET Author,200,OK,Stress 1-19,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,123,0,0
+1631891187683,289,GET All Books,200,OK,Stress 1-5,text,true,,97397,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,153,0,0
+1631891187710,267,GET All Books,200,OK,Stress 1-8,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,133,0,0
+1631891187822,156,GET Book,200,OK,Stress 1-9,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,156,0,0
+1631891187683,296,GET All Books,200,OK,Stress 1-12,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,171,0,0
+1631891187852,128,GET Book,200,OK,Stress 1-13,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,128,0,0
+1631891187716,267,GET All Books,200,OK,Stress 1-1,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,144,0,0
+1631891187683,306,GET All Books,200,OK,Stress 1-6,text,true,,97443,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,200,0,0
+1631891187740,259,GET All Books,200,OK,Stress 1-4,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,153,0,0
+1631891187734,274,GET All Books,200,OK,Stress 1-14,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,166,0,0
+1631891187921,92,GET Book,200,OK,Stress 1-10,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,92,0,0
+1631891187927,87,GET Book,200,OK,Stress 1-16,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,87,0,0
+1631891187843,189,GET All Authors,200,OK,Stress 1-20,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,113,0,0
+1631891187937,95,GET Book,200,OK,Stress 1-2,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,95,0,0
+1631891187943,89,GET Book,200,OK,Stress 1-15,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,89,0,0
+1631891187953,82,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,81,0,0
+1631891187955,80,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,80,0,0
+1631891187954,81,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,81,0,0
+1631891187973,63,GET Book,200,OK,Stress 1-5,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,63,0,0
+1631891187981,62,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,62,0,0
+1631891187978,65,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,65,0,0
+1631891187984,62,GET Book,200,OK,Stress 1-1,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,62,0,0
+1631891187980,66,GET Book,200,OK,Stress 1-12,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,66,0,0
+1631891187989,57,GET Book,200,OK,Stress 1-6,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,57,0,0
+1631891187978,68,GET Book,200,OK,Stress 1-8,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,68,0,0
+1631891187888,170,GET All Books,200,OK,Stress 1-18,text,true,,97471,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,105,0,0
+1631891188014,46,GET All Activities,200,OK,Stress 1-16,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,46,0,0
+1631891188013,47,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,47,0,0
+1631891187999,61,GET Book,200,OK,Stress 1-4,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,61,0,0
+1631891188009,52,GET Book,200,OK,Stress 1-14,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,52,0,0
+1631891187927,144,GET All Books,200,OK,Stress 1-17,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,87,0,0
+1631891187959,126,GET All Books,200,OK,Stress 1-19,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,77,0,0
+1631891188035,51,GET Activity,200,OK,Stress 1-7,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,51,0,0
+1631891188043,43,GET Activity,200,OK,Stress 1-13,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,43,0,0
+1631891188035,51,GET Activity,200,OK,Stress 1-11,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,51,0,0
+1631891188035,52,GET Activity,200,OK,Stress 1-3,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,52,0,0
+1631891188032,55,GET All Activities,200,OK,Stress 1-15,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,55,0,0
+1631891188046,41,GET All Activities,200,OK,Stress 1-12,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,41,0,0
+1631891188032,55,GET All Activities,200,OK,Stress 1-2,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,55,0,0
+1631891188036,52,GET All Activities,200,OK,Stress 1-5,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,52,0,0
+1631891188046,44,GET All Activities,200,OK,Stress 1-6,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,44,0,0
+1631891188032,58,GET Author,200,OK,Stress 1-20,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,58,0,0
+1631891188043,47,GET Activity,200,OK,Stress 1-9,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,47,0,0
+1631891188046,44,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,44,0,0
+1631891188060,30,GET Activity,200,OK,Stress 1-16,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,30,0,0
+1631891188046,46,GET All Activities,200,OK,Stress 1-1,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,46,0,0
+1631891188060,32,GET Activity,200,OK,Stress 1-10,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,32,0,0
+1631891188059,34,GET Book,200,OK,Stress 1-18,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,34,0,0
+1631891188061,33,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,33,0,0
+1631891188060,39,GET All Activities,200,OK,Stress 1-4,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,39,0,0
+1631891188072,35,GET Book,200,OK,Stress 1-17,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,35,0,0
+1631891188087,53,GET All Authors,200,OK,Stress 1-3,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,30,0,0
+1631891188086,55,GET All Authors,200,OK,Stress 1-7,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,29,0,0
+1631891188086,75,GET All Authors,200,OK,Stress 1-11,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,57,0,0
+1631891188090,74,GET Activity,200,OK,Stress 1-6,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,74,0,0
+1631891188088,76,GET Activity,200,OK,Stress 1-5,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,76,0,0
+1631891188093,72,GET Activity,200,OK,Stress 1-1,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,72,0,0
+1631891188088,81,GET Activity,200,OK,Stress 1-2,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,81,0,0
+1631891188091,85,GET All Authors,200,OK,Stress 1-16,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,21,0,0
+1631891188090,89,GET All Authors,200,OK,Stress 1-9,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,68,0,0
+1631891188100,80,GET Activity,200,OK,Stress 1-4,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,80,0,0
+1631891188094,90,GET Activity,200,OK,Stress 1-14,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,90,0,0
+1631891188088,97,GET Activity,200,OK,Stress 1-15,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,97,0,0
+1631891188091,94,GET Activity,200,OK,Stress 1-8,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,94,0,0
+1631891188107,81,GET All Activities,200,OK,Stress 1-17,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,81,0,0
+1631891188093,96,GET All Authors,200,OK,Stress 1-10,text,true,,52425,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,86,0,0
+1631891188095,95,GET All Activities,200,OK,Stress 1-18,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,95,0,0
+1631891188088,105,GET Activity,200,OK,Stress 1-12,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,105,0,0
+1631891188086,115,GET All Authors,200,OK,Stress 1-13,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,103,0,0
+1631891188086,115,GET Book,200,OK,Stress 1-19,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,115,0,0
+1631891188141,61,GET Author,200,OK,Stress 1-7,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,61,0,0
+1631891188140,62,GET Author,200,OK,Stress 1-3,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,62,0,0
+1631891188090,118,GET All Books,200,OK,Stress 1-20,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,61,0,0
+1631891188162,47,GET Author,200,OK,Stress 1-11,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,47,0,0
+1631891188179,31,GET Author,200,OK,Stress 1-9,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,31,0,0
+1631891188176,45,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,45,0,0
+1631891188165,72,GET All Authors,200,OK,Stress 1-5,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,53,0,0
+1631891188169,68,GET All Authors,200,OK,Stress 1-2,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,41,0,0
+1631891188180,58,GET All Authors,200,OK,Stress 1-4,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,50,0,0
+1631891188165,83,GET All Authors,200,OK,Stress 1-6,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,73,0,0
+1631891188188,60,GET Activity,200,OK,Stress 1-17,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,60,0,0
+1631891188189,60,GET Author,200,OK,Stress 1-10,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,60,0,0
+1631891188190,62,GET Activity,200,OK,Stress 1-18,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,62,0,0
+1631891188165,95,GET All Authors,200,OK,Stress 1-1,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,65,0,0
+1631891188185,82,GET All Authors,200,OK,Stress 1-15,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,67,0,0
+1631891188186,93,GET All Authors,200,OK,Stress 1-8,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,72,0,0
+1631891188184,99,GET All Authors,200,OK,Stress 1-14,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,86,0,0
+1631891188208,75,GET Book,200,OK,Stress 1-20,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,75,0,0
+1631891188202,112,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,112,0,0
+1631891188202,118,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,82,0,0
+1631891188209,111,GET All Books,200,OK,Stress 1-11,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,76,0,0
+1631891188193,129,GET All Authors,200,OK,Stress 1-12,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,113,0,0
+1631891188201,122,GET Author,200,OK,Stress 1-13,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,122,0,0
+1631891188202,131,GET All Books,200,OK,Stress 1-3,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,87,0,0
+1631891188210,150,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,123,0,0
+1631891188221,152,GET All Books,200,OK,Stress 1-16,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,139,0,0
+1631891188237,137,GET Author,200,OK,Stress 1-5,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,137,0,0
+1631891188237,137,GET Author,200,OK,Stress 1-2,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,137,0,0
+1631891188238,136,GET Author,200,OK,Stress 1-4,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,136,0,0
+1631891188248,127,GET Author,200,OK,Stress 1-6,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,127,0,0
+1631891188248,131,GET All Authors,200,OK,Stress 1-17,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,126,0,0
+1631891188260,129,GET Author,200,OK,Stress 1-1,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,129,0,0
+1631891188252,137,GET All Authors,200,OK,Stress 1-18,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,127,0,0
+1631891188279,116,GET Author,200,OK,Stress 1-8,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,116,0,0
+1631891188267,128,GET Author,200,OK,Stress 1-15,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,128,0,0
+1631891188284,111,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,111,0,0
+1631891188283,112,GET Author,200,OK,Stress 1-14,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,112,0,0
+1631891188314,82,GET Activity,200,OK,Stress 1-19,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,82,0,0
+1631891188321,75,GET Book,200,OK,Stress 1-11,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,75,0,0
+1631891188320,76,GET Book,200,OK,Stress 1-7,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,76,0,0
+1631891188333,65,GET Book,200,OK,Stress 1-3,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,65,0,0
+1631891188323,77,GET Author,200,OK,Stress 1-12,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,77,0,0
+1631891188323,90,GET All Books,200,OK,Stress 1-13,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,74,0,0
+1631891188360,53,GET Book,200,OK,Stress 1-9,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,53,0,0
+1631891188249,166,GET All Books,200,OK,Stress 1-10,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,132,0,0
+1631891188374,59,GET Book,200,OK,Stress 1-16,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,59,0,0
+1631891188379,63,GET Author,200,OK,Stress 1-17,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,63,0,0
+1631891188396,83,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,83,0,0
+1631891188396,85,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,85,0,0
+1631891188395,87,GET Activity,200,OK,Stress 1-20,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,87,0,0
+1631891188398,85,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,85,0,0
+1631891188389,94,GET Author,200,OK,Stress 1-18,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,94,0,0
+1631891188396,104,GET All Authors,200,OK,Stress 1-19,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,91,0,0
+1631891188400,122,GET All Books,200,OK,Stress 1-12,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,96,0,0
+1631891188395,138,GET All Books,200,OK,Stress 1-14,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,106,0,0
+1631891188395,161,GET All Books,200,OK,Stress 1-8,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,139,0,0
+1631891188374,193,GET All Books,200,OK,Stress 1-4,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,43,0,0
+1631891188375,194,GET All Books,200,OK,Stress 1-6,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631891188413,158,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,158,0,0
+1631891188415,160,GET Book,200,OK,Stress 1-10,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,160,0,0
+1631891188413,172,GET Book,200,OK,Stress 1-13,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,172,0,0
+1631891188389,197,GET All Books,200,OK,Stress 1-1,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,180,0,0
+1631891188434,152,GET All Activities,200,OK,Stress 1-16,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,152,0,0
+1631891188374,228,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,100,0,0
+1631891188374,228,GET All Books,200,OK,Stress 1-5,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,83,0,0
+1631891188479,136,GET Activity,200,OK,Stress 1-7,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,136,0,0
+1631891188481,134,GET Activity,200,OK,Stress 1-11,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,134,0,0
+1631891188483,133,GET Activity,200,OK,Stress 1-3,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,133,0,0
+1631891188483,133,GET All Authors,200,OK,Stress 1-20,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,132,0,0
+1631891188500,129,GET Author,200,OK,Stress 1-19,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,129,0,0
+1631891188395,247,GET All Books,200,OK,Stress 1-15,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,110,0,0
+1631891188522,121,GET Book,200,OK,Stress 1-12,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,121,0,0
+1631891188534,109,GET Book,200,OK,Stress 1-14,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,109,0,0
+1631891188585,58,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,58,0,0
+1631891188586,57,GET Activity,200,OK,Stress 1-16,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,57,0,0
+1631891188586,58,GET Book,200,OK,Stress 1-1,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,58,0,0
+1631891188575,69,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,69,0,0
+1631891188567,77,GET Book,200,OK,Stress 1-4,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,77,0,0
+1631891188571,73,GET Activity,200,OK,Stress 1-9,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,73,0,0
+1631891188557,87,GET Book,200,OK,Stress 1-8,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,87,0,0
+1631891188569,75,GET Book,200,OK,Stress 1-6,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,75,0,0
+1631891188602,43,GET Book,200,OK,Stress 1-2,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,43,0,0
+1631891188443,202,GET All Books,200,OK,Stress 1-17,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,143,0,0
+1631891188483,180,GET All Books,200,OK,Stress 1-18,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,133,0,0
+1631891188602,61,GET Book,200,OK,Stress 1-5,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,61,0,0
+1631891188616,48,GET Author,200,OK,Stress 1-20,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,48,0,0
+1631891188615,49,GET All Authors,200,OK,Stress 1-11,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,48,0,0
+1631891188615,49,GET All Authors,200,OK,Stress 1-7,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,49,0,0
+1631891188616,57,GET All Authors,200,OK,Stress 1-3,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,48,0,0
+1631891188630,64,GET All Books,200,OK,Stress 1-19,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,43,0,0
+1631891188644,50,GET Activity,200,OK,Stress 1-10,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,50,0,0
+1631891188644,64,GET All Authors,200,OK,Stress 1-9,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,50,0,0
+1631891188644,69,GET All Authors,200,OK,Stress 1-16,text,true,,59347,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,50,0,0
+1631891188644,70,GET All Activities,200,OK,Stress 1-4,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,70,0,0
+1631891188644,70,GET Activity,200,OK,Stress 1-13,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,70,0,0
+1631891188643,71,GET Book,200,OK,Stress 1-15,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,71,0,0
+1631891188643,72,GET All Activities,200,OK,Stress 1-12,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,72,0,0
+1631891188645,70,GET All Activities,200,OK,Stress 1-2,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,70,0,0
+1631891188644,71,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,71,0,0
+1631891188644,72,GET All Activities,200,OK,Stress 1-1,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,72,0,0
+1631891188645,71,GET Book,200,OK,Stress 1-17,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,71,0,0
+1631891188644,72,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,72,0,0
+1631891188644,73,GET All Activities,200,OK,Stress 1-6,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,73,0,0
+1631891188663,54,GET All Activities,200,OK,Stress 1-5,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,54,0,0
+1631891188664,53,GET Author,200,OK,Stress 1-11,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,53,0,0
+1631891188664,53,GET Author,200,OK,Stress 1-7,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,53,0,0
+1631891188663,54,GET Book,200,OK,Stress 1-18,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,54,0,0
+1631891188674,55,GET Author,200,OK,Stress 1-3,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,55,0,0
+1631891188694,44,GET All Authors,200,OK,Stress 1-10,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,35,0,0
+1631891188694,48,GET Book,200,OK,Stress 1-19,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,48,0,0
+1631891188709,33,GET Author,200,OK,Stress 1-9,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,33,0,0
+1631891188664,82,GET All Books,200,OK,Stress 1-20,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,54,0,0
+1631891188715,31,GET Activity,200,OK,Stress 1-2,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,31,0,0
+1631891188717,29,GET All Activities,200,OK,Stress 1-18,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,29,0,0
+1631891188714,33,GET All Activities,200,OK,Stress 1-15,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,33,0,0
+1631891188715,38,GET Activity,200,OK,Stress 1-12,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,38,0,0
+1631891188714,39,GET Activity,200,OK,Stress 1-4,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,39,0,0
+1631891188714,39,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,39,0,0
+1631891188716,38,GET Activity,200,OK,Stress 1-8,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,38,0,0
+1631891188717,41,GET Activity,200,OK,Stress 1-6,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,41,0,0
+1631891188714,46,GET All Authors,200,OK,Stress 1-13,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,33,0,0
+1631891188716,44,GET Activity,200,OK,Stress 1-1,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,44,0,0
+1631891188717,43,GET Activity,200,OK,Stress 1-5,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,43,0,0
+1631891188715,59,GET Activity,200,OK,Stress 1-14,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,59,0,0
+1631891188717,65,GET All Books,200,OK,Stress 1-11,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,52,0,0
+1631891188717,77,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,44,0,0
+1631891188716,79,GET All Activities,200,OK,Stress 1-17,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,79,0,0
+1631891188729,80,GET All Books,200,OK,Stress 1-3,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,66,0,0
+1631891188738,72,GET Author,200,OK,Stress 1-10,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,72,0,0
+1631891188743,67,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,67,0,0
+1631891188746,71,GET All Authors,200,OK,Stress 1-2,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,64,0,0
+1631891188746,71,GET Activity,200,OK,Stress 1-18,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,71,0,0
+1631891188746,71,GET Book,200,OK,Stress 1-20,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,71,0,0
+1631891188747,72,GET Activity,200,OK,Stress 1-15,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,72,0,0
+1631891188743,87,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,75,0,0
+1631891188760,75,GET Author,200,OK,Stress 1-13,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,75,0,0
+1631891188754,102,GET All Books,200,OK,Stress 1-16,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,78,0,0
+1631891188761,98,GET All Authors,200,OK,Stress 1-5,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,85,0,0
+1631891188754,109,GET All Authors,200,OK,Stress 1-12,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,94,0,0
+1631891188759,121,GET All Authors,200,OK,Stress 1-6,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,106,0,0
+1631891188754,128,GET All Authors,200,OK,Stress 1-4,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,109,0,0
+1631891188754,130,GET All Authors,200,OK,Stress 1-8,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,111,0,0
+1631891188761,127,GET All Authors,200,OK,Stress 1-1,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,95,0,0
+1631891188795,97,GET Activity,200,OK,Stress 1-17,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,97,0,0
+1631891188775,118,GET All Authors,200,OK,Stress 1-14,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,113,0,0
+1631891188782,112,GET Book,200,OK,Stress 1-11,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,112,0,0
+1631891188795,99,GET Book,200,OK,Stress 1-7,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,99,0,0
+1631891188810,84,GET Activity,200,OK,Stress 1-19,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,84,0,0
+1631891188817,78,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,78,0,0
+1631891188817,88,GET Author,200,OK,Stress 1-2,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,88,0,0
+1631891188809,96,GET Book,200,OK,Stress 1-3,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,96,0,0
+1631891188810,99,GET All Books,200,OK,Stress 1-10,text,true,,97396,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,85,0,0
+1631891188819,103,GET All Authors,200,OK,Stress 1-15,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,90,0,0
+1631891188817,108,GET All Authors,200,OK,Stress 1-18,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,92,0,0
+1631891188830,114,GET Book,200,OK,Stress 1-9,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,114,0,0
+1631891188860,84,GET Author,200,OK,Stress 1-5,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,84,0,0
+1631891188835,109,GET All Books,200,OK,Stress 1-13,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,91,0,0
+1631891188856,99,GET Book,200,OK,Stress 1-16,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,99,0,0
+1631891188882,73,GET Author,200,OK,Stress 1-4,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,73,0,0
+1631891188863,92,GET Author,200,OK,Stress 1-12,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,92,0,0
+1631891188885,70,GET Author,200,OK,Stress 1-8,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,70,0,0
+1631891188880,76,GET Author,200,OK,Stress 1-6,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,76,0,0
+1631891188888,68,GET Author,200,OK,Stress 1-1,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,68,0,0
+1631891188893,68,GET All Authors,200,OK,Stress 1-17,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,63,0,0
+1631891188893,73,GET Author,200,OK,Stress 1-14,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,73,0,0
+1631891188894,75,GET All Authors,200,OK,Stress 1-19,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,67,0,0
+1631891188895,74,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,74,0,0
+1631891188895,74,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,74,0,0
+1631891188895,75,GET Activity,200,OK,Stress 1-20,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,75,0,0
+1631891188905,65,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,65,0,0
+1631891188909,78,GET Book,200,OK,Stress 1-10,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,78,0,0
+1631891188905,83,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,65,0,0
+1631891188926,62,GET Author,200,OK,Stress 1-18,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,62,0,0
+1631891188922,66,GET Author,200,OK,Stress 1-15,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,66,0,0
+1631891188944,44,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,44,0,0
+1631891188944,44,GET Book,200,OK,Stress 1-13,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,44,0,0
+1631891188962,28,GET Author,200,OK,Stress 1-17,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,28,0,0
+1631891188956,35,GET All Activities,200,OK,Stress 1-16,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,35,0,0
+1631891188944,65,GET All Books,200,OK,Stress 1-5,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,47,0,0
+1631891188956,67,GET All Books,200,OK,Stress 1-6,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,45,0,0
+1631891188970,56,GET Activity,200,OK,Stress 1-11,text,true,,350,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,56,0,0
+1631891188969,68,GET Activity,200,OK,Stress 1-7,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,68,0,0
+1631891188969,80,GET Author,200,OK,Stress 1-19,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,80,0,0
+1631891188956,126,GET All Books,200,OK,Stress 1-8,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,67,0,0
+1631891188956,140,GET All Books,200,OK,Stress 1-12,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,70,0,0
+1631891188956,183,GET All Books,200,OK,Stress 1-4,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,83,0,0
+1631891188987,152,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,152,0,0
+1631891188988,153,GET Activity,200,OK,Stress 1-9,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,153,0,0
+1631891188970,172,GET All Authors,200,OK,Stress 1-20,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,112,0,0
+1631891188988,168,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,168,0,0
+1631891188970,186,GET Activity,200,OK,Stress 1-3,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,186,0,0
+1631891188991,176,GET Activity,200,OK,Stress 1-16,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,176,0,0
+1631891188967,213,GET All Books,200,OK,Stress 1-14,text,true,,97405,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,190,0,0
+1631891188988,194,GET Book,200,OK,Stress 1-2,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,194,0,0
+1631891188956,244,GET All Books,200,OK,Stress 1-1,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,109,0,0
+1631891188988,226,GET All Books,200,OK,Stress 1-18,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,196,0,0
+1631891188988,228,GET All Books,200,OK,Stress 1-15,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,200,0,0
+1631891188991,241,GET All Books,200,OK,Stress 1-17,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,226,0,0
+1631891189010,222,GET Book,200,OK,Stress 1-5,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,222,0,0
+1631891189023,209,GET Book,200,OK,Stress 1-6,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,209,0,0
+1631891189026,209,GET All Authors,200,OK,Stress 1-11,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,206,0,0
+1631891189037,212,GET All Authors,200,OK,Stress 1-7,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,198,0,0
+1631891189049,220,GET All Books,200,OK,Stress 1-19,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,200,0,0
+1631891189082,188,GET Book,200,OK,Stress 1-8,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,188,0,0
+1631891189096,174,GET Book,200,OK,Stress 1-12,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,174,0,0
+1631891189140,131,GET Activity,200,OK,Stress 1-10,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,131,0,0
+1631891189139,154,GET Book,200,OK,Stress 1-4,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,154,0,0
+1631891189141,154,GET All Authors,200,OK,Stress 1-9,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,130,0,0
+1631891189142,153,GET Author,200,OK,Stress 1-20,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,153,0,0
+1631891189156,148,GET All Authors,200,OK,Stress 1-3,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,139,0,0
+1631891189156,153,GET Activity,200,OK,Stress 1-13,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,153,0,0
+1631891189236,80,GET Author,200,OK,Stress 1-11,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,80,0,0
+1631891189216,100,GET Book,200,OK,Stress 1-15,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,100,0,0
+1631891189214,103,GET Book,200,OK,Stress 1-18,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,103,0,0
+1631891189167,150,GET All Authors,200,OK,Stress 1-16,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,137,0,0
+1631891189232,85,GET All Activities,200,OK,Stress 1-5,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,85,0,0
+1631891189182,135,GET All Activities,200,OK,Stress 1-2,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,135,0,0
+1631891189200,117,GET Book,200,OK,Stress 1-1,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,117,0,0
+1631891189181,136,GET Book,200,OK,Stress 1-14,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,136,0,0
+1631891189232,86,GET All Activities,200,OK,Stress 1-6,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,86,0,0
+1631891189232,86,GET Book,200,OK,Stress 1-17,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,86,0,0
+1631891189270,48,GET All Activities,200,OK,Stress 1-12,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,48,0,0
+1631891189249,69,GET Author,200,OK,Stress 1-7,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,69,0,0
+1631891189270,48,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,48,0,0
+1631891189305,38,GET Author,200,OK,Stress 1-3,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,38,0,0
+1631891189294,49,GET All Activities,200,OK,Stress 1-4,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,49,0,0
+1631891189295,48,GET Author,200,OK,Stress 1-9,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,48,0,0
+1631891189271,72,GET All Authors,200,OK,Stress 1-10,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,48,0,0
+1631891189269,74,GET Book,200,OK,Stress 1-19,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,74,0,0
+1631891189309,39,GET All Authors,200,OK,Stress 1-13,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,34,0,0
+1631891189295,73,GET All Books,200,OK,Stress 1-20,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,48,0,0
+1631891189318,50,GET All Activities,200,OK,Stress 1-17,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,50,0,0
+1631891189317,52,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,52,0,0
+1631891189317,52,GET Activity,200,OK,Stress 1-5,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,52,0,0
+1631891189317,52,GET All Activities,200,OK,Stress 1-18,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,52,0,0
+1631891189317,52,GET Activity,200,OK,Stress 1-2,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,52,0,0
+1631891189318,51,GET Activity,200,OK,Stress 1-6,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,51,0,0
+1631891189318,52,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,52,0,0
+1631891189318,52,GET All Activities,200,OK,Stress 1-1,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,52,0,0
+1631891189317,53,GET All Activities,200,OK,Stress 1-15,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,53,0,0
+1631891189318,53,GET Activity,200,OK,Stress 1-8,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,52,0,0
+1631891189318,55,GET Activity,200,OK,Stress 1-12,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,55,0,0
+1631891189318,86,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,56,0,0
+1631891189317,96,GET All Books,200,OK,Stress 1-11,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,74,0,0
+1631891189345,68,GET Author,200,OK,Stress 1-10,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,68,0,0
+1631891189348,65,GET Author,200,OK,Stress 1-13,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,65,0,0
+1631891189346,67,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,67,0,0
+1631891189345,68,GET Activity,200,OK,Stress 1-4,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,68,0,0
+1631891189369,61,GET Activity,200,OK,Stress 1-18,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,61,0,0
+1631891189368,71,GET Activity,200,OK,Stress 1-17,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,71,0,0
+1631891189345,111,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,69,0,0
+1631891189345,116,GET All Books,200,OK,Stress 1-3,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,69,0,0
+1631891189369,109,GET All Authors,200,OK,Stress 1-6,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,93,0,0
+1631891189370,108,GET Activity,200,OK,Stress 1-14,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,108,0,0
+1631891189370,108,GET Activity,200,OK,Stress 1-1,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,108,0,0
+1631891189370,108,GET Activity,200,OK,Stress 1-15,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,108,0,0
+1631891189369,112,GET All Authors,200,OK,Stress 1-5,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,66,0,0
+1631891189368,113,GET Book,200,OK,Stress 1-20,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,113,0,0
+1631891189369,125,GET All Authors,200,OK,Stress 1-2,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,65,0,0
+1631891189369,137,GET All Books,200,OK,Stress 1-16,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,118,0,0
+1631891189371,143,GET All Authors,200,OK,Stress 1-8,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,128,0,0
+1631891189373,149,GET All Authors,200,OK,Stress 1-12,text,true,,57267,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,141,0,0
+1631891189413,110,GET Book,200,OK,Stress 1-11,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,110,0,0
+1631891189405,118,GET Book,200,OK,Stress 1-7,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,118,0,0
+1631891189413,128,GET All Books,200,OK,Stress 1-10,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,110,0,0
+1631891189414,136,GET Activity,200,OK,Stress 1-19,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,136,0,0
+1631891189414,138,GET All Authors,200,OK,Stress 1-4,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,128,0,0
+1631891189413,146,GET All Books,200,OK,Stress 1-13,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,111,0,0
+1631891189430,139,GET All Authors,200,OK,Stress 1-18,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,125,0,0
+1631891189439,138,GET All Authors,200,OK,Stress 1-17,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,131,0,0
+1631891189456,121,GET Book,200,OK,Stress 1-9,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,121,0,0
+1631891189462,116,GET Book,200,OK,Stress 1-3,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,116,0,0
+1631891189494,84,GET Author,200,OK,Stress 1-2,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,84,0,0
+1631891189481,97,GET Author,200,OK,Stress 1-5,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,97,0,0
+1631891189481,97,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,97,0,0
+1631891189478,100,GET Author,200,OK,Stress 1-6,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,100,0,0
+1631891189479,117,GET All Authors,200,OK,Stress 1-15,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,101,0,0
+1631891189478,122,GET All Authors,200,OK,Stress 1-14,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,100,0,0
+1631891189506,94,GET Book,200,OK,Stress 1-16,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,94,0,0
+1631891189523,79,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,79,0,0
+1631891189523,79,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,79,0,0
+1631891189522,80,GET Author,200,OK,Stress 1-12,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,80,0,0
+1631891189514,88,GET Author,200,OK,Stress 1-8,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,88,0,0
+1631891189479,124,GET All Authors,200,OK,Stress 1-1,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,101,0,0
+1631891189542,62,GET Book,200,OK,Stress 1-10,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,62,0,0
+1631891189552,52,GET Author,200,OK,Stress 1-4,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,52,0,0
+1631891189550,64,GET All Authors,200,OK,Stress 1-19,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,54,0,0
+1631891189570,44,GET Author,200,OK,Stress 1-18,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,44,0,0
+1631891189560,54,GET Book,200,OK,Stress 1-13,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,54,0,0
+1631891189577,38,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,38,0,0
+1631891189577,38,GET Author,200,OK,Stress 1-17,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,38,0,0
+1631891189578,37,GET Activity,200,OK,Stress 1-20,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,37,0,0
+1631891189578,38,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,38,0,0
+1631891189578,54,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,39,0,0
+1631891189596,36,GET Author,200,OK,Stress 1-15,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,36,0,0
+1631891189578,83,GET All Books,200,OK,Stress 1-5,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,46,0,0
+1631891189578,84,GET All Books,200,OK,Stress 1-6,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,58,0,0
+1631891189601,61,GET All Activities,200,OK,Stress 1-16,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,61,0,0
+1631891189602,61,GET Activity,200,OK,Stress 1-11,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,61,0,0
+1631891189602,61,GET Activity,200,OK,Stress 1-7,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,61,0,0
+1631891189604,59,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,59,0,0
+1631891189614,49,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,49,0,0
+1631891189615,49,GET Activity,200,OK,Stress 1-9,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,49,0,0
+1631891189616,48,GET Activity,200,OK,Stress 1-3,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,48,0,0
+1631891189615,69,GET All Authors,200,OK,Stress 1-20,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,49,0,0
+1631891189603,90,GET Author,200,OK,Stress 1-1,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,90,0,0
+1631891189614,84,GET All Books,200,OK,Stress 1-18,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,51,0,0
+1631891189614,84,GET Author,200,OK,Stress 1-19,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,84,0,0
+1631891189615,100,GET All Books,200,OK,Stress 1-17,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,85,0,0
+1631891189604,128,GET All Books,200,OK,Stress 1-4,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,99,0,0
+1631891189600,134,GET Author,200,OK,Stress 1-14,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,134,0,0
+1631891189602,141,GET All Books,200,OK,Stress 1-12,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,98,0,0
+1631891189633,118,GET Book,200,OK,Stress 1-2,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,118,0,0
+1631891189602,153,GET All Books,200,OK,Stress 1-8,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,137,0,0
+1631891189633,145,GET All Books,200,OK,Stress 1-15,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,123,0,0
+1631891189663,115,GET Activity,200,OK,Stress 1-10,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,115,0,0
+1631891189663,115,GET Activity,200,OK,Stress 1-16,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,115,0,0
+1631891189663,117,GET Activity,200,OK,Stress 1-13,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,117,0,0
+1631891189663,119,GET All Authors,200,OK,Stress 1-7,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,115,0,0
+1631891189664,131,GET All Authors,200,OK,Stress 1-9,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,117,0,0
+1631891189664,134,GET All Authors,200,OK,Stress 1-3,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,120,0,0
+1631891189662,136,GET Book,200,OK,Stress 1-6,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,136,0,0
+1631891189663,137,GET All Authors,200,OK,Stress 1-11,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,124,0,0
+1631891189662,138,GET Book,200,OK,Stress 1-5,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,138,0,0
+1631891189684,116,GET Author,200,OK,Stress 1-20,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,116,0,0
+1631891189699,102,GET Book,200,OK,Stress 1-18,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,102,0,0
+1631891189715,102,GET Book,200,OK,Stress 1-17,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,102,0,0
+1631891189694,123,GET All Books,200,OK,Stress 1-1,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,107,0,0
+1631891189732,90,GET Book,200,OK,Stress 1-4,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,90,0,0
+1631891189743,80,GET Book,200,OK,Stress 1-12,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,80,0,0
+1631891189752,71,GET All Activities,200,OK,Stress 1-2,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,71,0,0
+1631891189734,95,GET All Books,200,OK,Stress 1-14,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,84,0,0
+1631891189699,145,GET All Books,200,OK,Stress 1-19,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,131,0,0
+1631891189756,88,GET Book,200,OK,Stress 1-8,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,88,0,0
+1631891189778,79,GET Book,200,OK,Stress 1-15,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,79,0,0
+1631891189782,74,GET Author,200,OK,Stress 1-7,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,74,0,0
+1631891189780,77,GET All Authors,200,OK,Stress 1-13,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,75,0,0
+1631891189778,78,GET All Authors,200,OK,Stress 1-16,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,67,0,0
+1631891189778,77,GET All Authors,200,OK,Stress 1-10,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,69,0,0
+1631891189800,59,GET All Activities,200,OK,Stress 1-5,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,59,0,0
+1631891189801,58,GET All Activities,200,OK,Stress 1-18,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,58,0,0
+1631891189800,59,GET Author,200,OK,Stress 1-11,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,59,0,0
+1631891189796,68,GET Author,200,OK,Stress 1-9,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,68,0,0
+1631891189798,66,GET Author,200,OK,Stress 1-3,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,66,0,0
+1631891189799,66,GET All Activities,200,OK,Stress 1-6,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,66,0,0
+1631891189800,82,GET All Books,200,OK,Stress 1-20,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,65,0,0
+1631891189817,65,GET All Activities,200,OK,Stress 1-17,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,65,0,0
+1631891189823,59,GET Activity,200,OK,Stress 1-2,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,59,0,0
+1631891189823,60,GET All Activities,200,OK,Stress 1-12,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,60,0,0
+1631891189822,61,GET All Activities,200,OK,Stress 1-4,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,61,0,0
+1631891189817,66,GET Book,200,OK,Stress 1-1,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,66,0,0
+1631891189844,41,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,41,0,0
+1631891189829,56,GET Book,200,OK,Stress 1-14,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,56,0,0
+1631891189844,41,GET Book,200,OK,Stress 1-19,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,41,0,0
+1631891189859,34,GET Activity,200,OK,Stress 1-18,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,34,0,0
+1631891189883,33,GET Activity,200,OK,Stress 1-4,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,33,0,0
+1631891189883,42,GET Activity,200,OK,Stress 1-12,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,42,0,0
+1631891189858,94,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,94,0,0
+1631891189859,97,GET All Books,200,OK,Stress 1-11,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,57,0,0
+1631891189858,99,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,52,0,0
+1631891189865,94,GET Activity,200,OK,Stress 1-6,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,94,0,0
+1631891189858,101,GET All Activities,200,OK,Stress 1-15,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,101,0,0
+1631891189859,101,GET Activity,200,OK,Stress 1-5,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,100,0,0
+1631891189858,102,GET Author,200,OK,Stress 1-13,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,102,0,0
+1631891189864,98,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,48,0,0
+1631891189864,101,GET All Books,200,OK,Stress 1-3,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,40,0,0
+1631891189884,81,GET All Activities,200,OK,Stress 1-1,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,81,0,0
+1631891189882,84,GET Book,200,OK,Stress 1-20,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,84,0,0
+1631891189885,81,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,81,0,0
+1631891189885,81,GET Activity,200,OK,Stress 1-8,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,81,0,0
+1631891189882,84,GET Activity,200,OK,Stress 1-17,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,84,0,0
+1631891189885,81,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,81,0,0
+1631891189858,108,GET Author,200,OK,Stress 1-10,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,108,0,0
+1631891189882,95,GET All Authors,200,OK,Stress 1-2,text,true,,40909,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,84,0,0
+1631891189893,90,GET All Authors,200,OK,Stress 1-18,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,81,0,0
+1631891189925,87,GET All Authors,200,OK,Stress 1-12,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,59,0,0
+1631891189916,99,GET All Authors,200,OK,Stress 1-4,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,68,0,0
+1631891189957,58,GET Book,200,OK,Stress 1-11,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,58,0,0
+1631891189958,58,GET Book,200,OK,Stress 1-7,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,58,0,0
+1631891189953,91,GET All Books,200,OK,Stress 1-16,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,63,0,0
+1631891189966,83,GET All Authors,200,OK,Stress 1-17,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,65,0,0
+1631891189960,92,GET All Authors,200,OK,Stress 1-5,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,85,0,0
+1631891189965,87,GET Book,200,OK,Stress 1-3,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,87,0,0
+1631891189960,92,GET Activity,200,OK,Stress 1-15,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,92,0,0
+1631891189966,87,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,87,0,0
+1631891189962,91,GET Book,200,OK,Stress 1-9,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,91,0,0
+1631891189966,92,GET All Authors,200,OK,Stress 1-8,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,87,0,0
+1631891189966,94,GET Activity,200,OK,Stress 1-14,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,94,0,0
+1631891189966,94,GET Activity,200,OK,Stress 1-19,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,94,0,0
+1631891189959,106,GET All Authors,200,OK,Stress 1-6,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,99,0,0
+1631891189977,88,GET Author,200,OK,Stress 1-2,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,88,0,0
+1631891189965,100,GET Activity,200,OK,Stress 1-1,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,100,0,0
+1631891189983,94,GET Author,200,OK,Stress 1-18,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,94,0,0
+1631891189961,127,GET All Books,200,OK,Stress 1-13,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,108,0,0
+1631891189966,138,GET All Books,200,OK,Stress 1-10,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,100,0,0
+1631891190015,89,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,89,0,0
+1631891190016,89,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,89,0,0
+1631891190013,92,GET Author,200,OK,Stress 1-12,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,92,0,0
+1631891190015,90,GET Author,200,OK,Stress 1-4,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,90,0,0
+1631891190053,52,GET Activity,200,OK,Stress 1-20,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,52,0,0
+1631891190052,53,GET Author,200,OK,Stress 1-5,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,53,0,0
+1631891190045,60,GET Book,200,OK,Stress 1-16,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,60,0,0
+1631891190053,53,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,53,0,0
+1631891190053,53,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,53,0,0
+1631891190050,69,GET Author,200,OK,Stress 1-17,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,69,0,0
+1631891190053,66,GET All Authors,200,OK,Stress 1-15,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,53,0,0
+1631891190058,62,GET Author,200,OK,Stress 1-8,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,62,0,0
+1631891190060,63,GET All Authors,200,OK,Stress 1-14,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,59,0,0
+1631891190060,64,GET All Authors,200,OK,Stress 1-19,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,59,0,0
+1631891190066,58,GET Author,200,OK,Stress 1-6,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,58,0,0
+1631891190066,81,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,60,0,0
+1631891190066,92,GET All Authors,200,OK,Stress 1-1,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,59,0,0
+1631891190078,84,GET All Books,200,OK,Stress 1-18,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,66,0,0
+1631891190105,57,GET Activity,200,OK,Stress 1-7,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,57,0,0
+1631891190088,75,GET Book,200,OK,Stress 1-13,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,75,0,0
+1631891190104,59,GET Activity,200,OK,Stress 1-11,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,59,0,0
+1631891190104,59,GET Book,200,OK,Stress 1-10,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,59,0,0
+1631891190106,58,GET All Activities,200,OK,Stress 1-16,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,57,0,0
+1631891190106,58,GET Activity,200,OK,Stress 1-3,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,58,0,0
+1631891190106,59,GET Activity,200,OK,Stress 1-9,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,59,0,0
+1631891190105,68,GET All Authors,200,OK,Stress 1-20,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,59,0,0
+1631891190105,103,GET All Books,200,OK,Stress 1-5,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,71,0,0
+1631891190105,113,GET All Books,200,OK,Stress 1-12,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,82,0,0
+1631891190123,98,GET Author,200,OK,Stress 1-14,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,98,0,0
+1631891190125,100,GET Author,200,OK,Stress 1-19,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,100,0,0
+1631891190105,123,GET All Books,200,OK,Stress 1-4,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,69,0,0
+1631891190120,108,GET Author,200,OK,Stress 1-15,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,108,0,0
+1631891190120,128,GET All Books,200,OK,Stress 1-17,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,109,0,0
+1631891190125,141,GET All Books,200,OK,Stress 1-6,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,113,0,0
+1631891190148,122,GET Book,200,OK,Stress 1-2,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,122,0,0
+1631891190120,158,GET All Books,200,OK,Stress 1-8,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,114,0,0
+1631891190158,120,GET Author,200,OK,Stress 1-1,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,120,0,0
+1631891190163,116,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,116,0,0
+1631891190164,115,GET Activity,200,OK,Stress 1-16,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,115,0,0
+1631891190163,117,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,117,0,0
+1631891190162,137,GET Book,200,OK,Stress 1-18,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,137,0,0
+1631891190162,139,GET All Authors,200,OK,Stress 1-7,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,117,0,0
+1631891190164,138,GET All Authors,200,OK,Stress 1-3,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,116,0,0
+1631891190163,156,GET All Authors,200,OK,Stress 1-11,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,148,0,0
+1631891190165,157,GET All Authors,200,OK,Stress 1-9,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,137,0,0
+1631891190173,149,GET Author,200,OK,Stress 1-20,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,149,0,0
+1631891190208,114,GET Book,200,OK,Stress 1-5,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,114,0,0
+1631891190218,104,GET Book,200,OK,Stress 1-12,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,104,0,0
+1631891190222,119,GET All Books,200,OK,Stress 1-14,text,true,,97345,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,107,0,0
+1631891190225,135,GET All Books,200,OK,Stress 1-19,text,true,,97343,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,121,0,0
+1631891190229,138,GET All Books,200,OK,Stress 1-15,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,123,0,0
+1631891190229,138,GET Book,200,OK,Stress 1-4,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,138,0,0
+1631891190266,102,GET Book,200,OK,Stress 1-6,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,102,0,0
+1631891190249,119,GET Book,200,OK,Stress 1-17,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,119,0,0
+1631891190270,98,GET All Activities,200,OK,Stress 1-2,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,98,0,0
+1631891190279,90,GET Activity,200,OK,Stress 1-10,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,90,0,0
+1631891190281,88,GET Activity,200,OK,Stress 1-13,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,88,0,0
+1631891190279,97,GET All Authors,200,OK,Stress 1-16,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,91,0,0
+1631891190301,76,GET Author,200,OK,Stress 1-7,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,76,0,0
+1631891190278,99,GET Book,200,OK,Stress 1-8,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,99,0,0
+1631891190302,75,GET Author,200,OK,Stress 1-3,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,75,0,0
+1631891190300,78,GET All Activities,200,OK,Stress 1-18,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,78,0,0
+1631891190278,122,GET All Books,200,OK,Stress 1-1,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,99,0,0
+1631891190319,82,GET Author,200,OK,Stress 1-11,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,82,0,0
+1631891190323,79,GET All Activities,200,OK,Stress 1-12,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,79,0,0
+1631891190322,80,GET Author,200,OK,Stress 1-9,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,80,0,0
+1631891190322,80,GET All Activities,200,OK,Stress 1-5,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,80,0,0
+1631891190322,96,GET All Books,200,OK,Stress 1-20,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,82,0,0
+1631891190368,51,GET All Activities,200,OK,Stress 1-17,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,51,0,0
+1631891190342,77,GET Book,200,OK,Stress 1-14,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,77,0,0
+1631891190369,58,GET All Authors,200,OK,Stress 1-10,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,50,0,0
+1631891190368,59,GET Activity,200,OK,Stress 1-2,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,59,0,0
+1631891190368,59,GET All Activities,200,OK,Stress 1-4,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,59,0,0
+1631891190368,59,GET All Activities,200,OK,Stress 1-6,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,59,0,0
+1631891190364,64,GET Book,200,OK,Stress 1-19,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,64,0,0
+1631891190368,60,GET Book,200,OK,Stress 1-15,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,60,0,0
+1631891190369,66,GET All Authors,200,OK,Stress 1-13,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,54,0,0
+1631891190376,59,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,59,0,0
+1631891190378,57,GET Activity,200,OK,Stress 1-18,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,57,0,0
+1631891190377,59,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,59,0,0
+1631891190377,73,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,60,0,0
+1631891190377,93,GET All Books,200,OK,Stress 1-3,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,59,0,0
+1631891190402,68,GET Activity,200,OK,Stress 1-5,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,68,0,0
+1631891190402,68,GET Activity,200,OK,Stress 1-12,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,68,0,0
+1631891190419,51,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,51,0,0
+1631891190419,51,GET Activity,200,OK,Stress 1-17,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,51,0,0
+1631891190401,77,GET Book,200,OK,Stress 1-1,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,77,0,0
+1631891190427,67,GET Author,200,OK,Stress 1-10,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,67,0,0
+1631891190402,96,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,91,0,0
+1631891190418,80,GET Book,200,OK,Stress 1-20,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,80,0,0
+1631891190428,89,GET Activity,200,OK,Stress 1-6,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,89,0,0
+1631891190401,117,GET All Books,200,OK,Stress 1-11,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,77,0,0
+1631891190427,91,GET Activity,200,OK,Stress 1-4,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,91,0,0
+1631891190435,83,GET Author,200,OK,Stress 1-13,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,83,0,0
+1631891190436,83,GET Activity,200,OK,Stress 1-8,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,83,0,0
+1631891190428,97,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,97,0,0
+1631891190427,102,GET All Authors,200,OK,Stress 1-2,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,74,0,0
+1631891190428,106,GET All Activities,200,OK,Stress 1-15,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,106,0,0
+1631891190435,102,GET All Authors,200,OK,Stress 1-18,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,84,0,0
+1631891190435,117,GET All Books,200,OK,Stress 1-16,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,103,0,0
+1631891190451,101,GET Book,200,OK,Stress 1-7,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,101,0,0
+1631891190470,86,GET Activity,200,OK,Stress 1-14,text,true,,350,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,86,0,0
+1631891190471,96,GET All Authors,200,OK,Stress 1-17,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,82,0,0
+1631891190470,106,GET All Authors,200,OK,Stress 1-5,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,85,0,0
+1631891190470,107,GET All Authors,200,OK,Stress 1-12,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,94,0,0
+1631891190470,107,GET Book,200,OK,Stress 1-3,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,107,0,0
+1631891190478,99,GET All Activities,200,OK,Stress 1-1,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,99,0,0
+1631891190498,82,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,82,0,0
+1631891190494,108,GET All Books,200,OK,Stress 1-10,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,84,0,0
+1631891190498,105,GET Book,200,OK,Stress 1-9,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,105,0,0
+1631891190518,87,GET Book,200,OK,Stress 1-11,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,87,0,0
+1631891190519,104,GET All Authors,200,OK,Stress 1-8,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,83,0,0
+1631891190525,98,GET Activity,200,OK,Stress 1-19,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,98,0,0
+1631891190518,112,GET All Authors,200,OK,Stress 1-4,text,true,,50895,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,88,0,0
+1631891190517,113,GET All Authors,200,OK,Stress 1-6,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,103,0,0
+1631891190529,102,GET Author,200,OK,Stress 1-2,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,102,0,0
+1631891190537,96,GET Author,200,OK,Stress 1-18,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,96,0,0
+1631891190535,98,GET Activity,200,OK,Stress 1-15,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,98,0,0
+1631891190518,127,GET All Books,200,OK,Stress 1-13,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,115,0,0
+1631891190553,92,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,92,0,0
+1631891190556,94,GET All Authors,200,OK,Stress 1-14,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,89,0,0
+1631891190552,98,GET Book,200,OK,Stress 1-16,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,98,0,0
+1631891190567,83,GET Author,200,OK,Stress 1-17,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,83,0,0
+1631891190577,74,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,74,0,0
+1631891190577,74,GET Author,200,OK,Stress 1-12,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,74,0,0
+1631891190580,71,GET Activity,200,OK,Stress 1-20,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,71,0,0
+1631891190576,75,GET Author,200,OK,Stress 1-5,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,75,0,0
+1631891190577,75,GET Activity,200,OK,Stress 1-1,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,75,0,0
+1631891190603,49,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,49,0,0
+1631891190605,50,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,49,0,0
+1631891190603,52,GET Book,200,OK,Stress 1-10,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,52,0,0
+1631891190630,25,GET Author,200,OK,Stress 1-4,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,25,0,0
+1631891190623,32,GET Author,200,OK,Stress 1-8,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,32,0,0
+1631891190623,40,GET All Authors,200,OK,Stress 1-19,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,32,0,0
+1631891190631,32,GET Author,200,OK,Stress 1-6,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,32,0,0
+1631891190633,41,GET All Authors,200,OK,Stress 1-15,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,31,0,0
+1631891190645,38,GET Activity,200,OK,Stress 1-7,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,38,0,0
+1631891190651,32,GET Activity,200,OK,Stress 1-3,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,32,0,0
+1631891190633,73,GET All Books,200,OK,Stress 1-18,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,48,0,0
+1631891190651,75,GET All Authors,200,OK,Stress 1-20,text,true,,39921,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,55,0,0
+1631891190631,101,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,52,0,0
+1631891190655,89,GET Activity,200,OK,Stress 1-11,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,89,0,0
+1631891190653,96,GET Activity,200,OK,Stress 1-9,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,96,0,0
+1631891190650,102,GET All Books,200,OK,Stress 1-17,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,83,0,0
+1631891190650,107,GET All Activities,200,OK,Stress 1-16,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,105,0,0
+1631891190652,105,GET All Books,200,OK,Stress 1-5,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,66,0,0
+1631891190655,109,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,108,0,0
+1631891190650,114,GET Author,200,OK,Stress 1-14,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,114,0,0
+1631891190663,105,GET Author,200,OK,Stress 1-19,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,105,0,0
+1631891190652,117,GET All Authors,200,OK,Stress 1-1,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,81,0,0
+1631891190645,128,GET Book,200,OK,Stress 1-13,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,128,0,0
+1631891190651,125,GET All Books,200,OK,Stress 1-12,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,99,0,0
+1631891190655,148,GET All Books,200,OK,Stress 1-4,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,121,0,0
+1631891190663,168,GET All Books,200,OK,Stress 1-6,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,141,0,0
+1631891190674,157,GET Author,200,OK,Stress 1-15,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,157,0,0
+1631891190655,188,GET All Books,200,OK,Stress 1-8,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,140,0,0
+1631891190683,165,GET All Authors,200,OK,Stress 1-3,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,151,0,0
+1631891190683,182,GET All Authors,200,OK,Stress 1-7,text,true,,60909,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,165,0,0
+1631891190707,158,GET Book,200,OK,Stress 1-18,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,158,0,0
+1631891190727,139,GET Author,200,OK,Stress 1-20,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,139,0,0
+1631891190732,134,GET Book,200,OK,Stress 1-2,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,134,0,0
+1631891190744,123,GET All Authors,200,OK,Stress 1-11,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,122,0,0
+1631891190749,118,GET All Authors,200,OK,Stress 1-9,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,117,0,0
+1631891190752,115,GET Book,200,OK,Stress 1-17,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,115,0,0
+1631891190764,103,GET Activity,200,OK,Stress 1-10,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,103,0,0
+1631891190757,110,GET Activity,200,OK,Stress 1-16,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,110,0,0
+1631891190773,94,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,94,0,0
+1631891190758,109,GET Book,200,OK,Stress 1-5,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,109,0,0
+1631891190770,98,GET Author,200,OK,Stress 1-1,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,98,0,0
+1631891190776,92,GET Book,200,OK,Stress 1-12,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,92,0,0
+1631891190765,124,GET All Books,200,OK,Stress 1-14,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,103,0,0
+1631891190769,133,GET All Books,200,OK,Stress 1-19,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,101,0,0
+1631891190803,99,GET Book,200,OK,Stress 1-4,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,99,0,0
+1631891190831,71,GET Book,200,OK,Stress 1-6,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,71,0,0
+1631891190831,92,GET All Books,200,OK,Stress 1-15,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,71,0,0
+1631891190844,80,GET Book,200,OK,Stress 1-8,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,80,0,0
+1631891190848,76,GET Author,200,OK,Stress 1-3,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,76,0,0
+1631891190867,57,GET All Activities,200,OK,Stress 1-17,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,57,0,0
+1631891190866,58,GET Author,200,OK,Stress 1-7,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,58,0,0
+1631891190866,59,GET All Activities,200,OK,Stress 1-18,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,59,0,0
+1631891190867,58,GET Author,200,OK,Stress 1-11,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,58,0,0
+1631891190868,57,GET All Activities,200,OK,Stress 1-5,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,57,0,0
+1631891190868,57,GET All Activities,200,OK,Stress 1-12,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,57,0,0
+1631891190867,58,GET Activity,200,OK,Stress 1-13,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,58,0,0
+1631891190866,61,GET All Activities,200,OK,Stress 1-2,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,61,0,0
+1631891190867,62,GET Author,200,OK,Stress 1-9,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,62,0,0
+1631891190867,69,GET All Authors,200,OK,Stress 1-10,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,58,0,0
+1631891190867,78,GET All Authors,200,OK,Stress 1-16,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,69,0,0
+1631891190866,93,GET All Books,200,OK,Stress 1-20,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,80,0,0
+1631891190890,72,GET Book,200,OK,Stress 1-14,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,72,0,0
+1631891190868,105,GET All Books,200,OK,Stress 1-1,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,92,0,0
+1631891190903,71,GET All Activities,200,OK,Stress 1-4,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,71,0,0
+1631891190903,71,GET All Activities,200,OK,Stress 1-6,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,71,0,0
+1631891190902,72,GET Book,200,OK,Stress 1-19,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,72,0,0
+1631891190925,50,GET Activity,200,OK,Stress 1-18,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,50,0,0
+1631891190927,48,GET Activity,200,OK,Stress 1-2,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,48,0,0
+1631891190925,50,GET Activity,200,OK,Stress 1-12,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,50,0,0
+1631891190924,51,GET Activity,200,OK,Stress 1-17,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,51,0,0
+1631891190925,51,GET Activity,200,OK,Stress 1-5,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,51,0,0
+1631891190925,56,GET All Authors,200,OK,Stress 1-13,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,50,0,0
+1631891190924,57,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,57,0,0
+1631891190936,60,GET Author,200,OK,Stress 1-10,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,60,0,0
+1631891190924,93,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,63,0,0
+1631891190946,83,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,83,0,0
+1631891190924,104,GET All Books,200,OK,Stress 1-3,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,58,0,0
+1631891190924,105,GET Book,200,OK,Stress 1-15,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,105,0,0
+1631891190929,114,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,100,0,0
+1631891190959,84,GET Book,200,OK,Stress 1-20,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,84,0,0
+1631891190962,82,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,82,0,0
+1631891190976,78,GET All Authors,200,OK,Stress 1-17,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,68,0,0
+1631891190974,81,GET Activity,200,OK,Stress 1-4,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,81,0,0
+1631891190975,80,GET Activity,200,OK,Stress 1-6,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,80,0,0
+1631891190975,80,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,80,0,0
+1631891190976,100,GET All Authors,200,OK,Stress 1-12,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,75,0,0
+1631891190976,100,GET All Authors,200,OK,Stress 1-5,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,79,0,0
+1631891190975,102,GET All Authors,200,OK,Stress 1-18,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,71,0,0
+1631891190981,100,GET Author,200,OK,Stress 1-13,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,100,0,0
+1631891190981,100,GET Activity,200,OK,Stress 1-8,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,100,0,0
+1631891190976,109,GET All Authors,200,OK,Stress 1-2,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,101,0,0
+1631891190925,183,GET All Books,200,OK,Stress 1-11,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,119,0,0
+1631891191017,132,GET Book,200,OK,Stress 1-7,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,132,0,0
+1631891190996,163,GET All Books,200,OK,Stress 1-10,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,140,0,0
+1631891191029,130,GET All Activities,200,OK,Stress 1-15,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,130,0,0
+1631891190974,186,GET Book,200,OK,Stress 1-1,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,186,0,0
+1631891191029,145,GET All Books,200,OK,Stress 1-16,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,131,0,0
+1631891191043,131,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,131,0,0
+1631891191044,130,GET Activity,200,OK,Stress 1-14,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,130,0,0
+1631891191029,146,GET Book,200,OK,Stress 1-3,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,146,0,0
+1631891191043,132,GET Book,200,OK,Stress 1-9,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,132,0,0
+1631891191054,121,GET Author,200,OK,Stress 1-17,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,121,0,0
+1631891191055,121,GET Activity,200,OK,Stress 1-19,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,121,0,0
+1631891191055,125,GET All Authors,200,OK,Stress 1-6,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,120,0,0
+1631891191055,129,GET All Authors,200,OK,Stress 1-4,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,124,0,0
+1631891191079,106,GET Author,200,OK,Stress 1-18,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,106,0,0
+1631891191077,108,GET Author,200,OK,Stress 1-5,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,108,0,0
+1631891191077,109,GET Author,200,OK,Stress 1-12,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,109,0,0
+1631891191086,100,GET Author,200,OK,Stress 1-2,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,100,0,0
+1631891191082,109,GET All Authors,200,OK,Stress 1-8,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,104,0,0
+1631891191082,128,GET All Books,200,OK,Stress 1-13,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,109,0,0
+1631891191160,51,GET Activity,200,OK,Stress 1-15,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,51,0,0
+1631891191150,61,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,61,0,0
+1631891191109,102,GET Book,200,OK,Stress 1-11,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,102,0,0
+1631891191161,51,GET All Activities,200,OK,Stress 1-1,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,51,0,0
+1631891191176,36,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,36,0,0
+1631891191160,52,GET Book,200,OK,Stress 1-10,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,52,0,0
+1631891191176,37,GET Activity,200,OK,Stress 1-20,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,37,0,0
+1631891191176,37,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,37,0,0
+1631891191177,42,GET All Authors,200,OK,Stress 1-19,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,37,0,0
+1631891191175,56,GET Book,200,OK,Stress 1-16,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,56,0,0
+1631891191176,62,GET All Authors,200,OK,Stress 1-14,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,44,0,0
+1631891191181,57,GET Author,200,OK,Stress 1-6,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,57,0,0
+1631891191185,60,GET Author,200,OK,Stress 1-4,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,60,0,0
+1631891191176,71,GET All Books,200,OK,Stress 1-17,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,47,0,0
+1631891191191,64,GET Author,200,OK,Stress 1-8,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,64,0,0
+1631891191185,86,GET All Books,200,OK,Stress 1-5,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,63,0,0
+1631891191186,120,GET All Books,200,OK,Stress 1-12,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,79,0,0
+1631891191185,122,GET All Books,200,OK,Stress 1-18,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,62,0,0
+1631891191211,100,GET Activity,200,OK,Stress 1-7,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,100,0,0
+1631891191186,125,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,79,0,0
+1631891191213,98,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,98,0,0
+1631891191214,103,GET Activity,200,OK,Stress 1-9,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,103,0,0
+1631891191212,105,GET Activity,200,OK,Stress 1-3,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,105,0,0
+1631891191211,106,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,106,0,0
+1631891191211,107,GET All Authors,200,OK,Stress 1-15,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,106,0,0
+1631891191212,109,GET Activity,200,OK,Stress 1-1,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,109,0,0
+1631891191214,108,GET All Authors,200,OK,Stress 1-20,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,103,0,0
+1631891191231,91,GET All Activities,200,OK,Stress 1-16,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,91,0,0
+1631891191210,112,GET Book,200,OK,Stress 1-13,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,112,0,0
+1631891191220,102,GET Author,200,OK,Stress 1-19,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,102,0,0
+1631891191238,85,GET Author,200,OK,Stress 1-14,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,85,0,0
+1631891191247,94,GET Book,200,OK,Stress 1-17,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,94,0,0
+1631891191238,108,GET All Books,200,OK,Stress 1-6,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,86,0,0
+1631891191245,115,GET All Books,200,OK,Stress 1-4,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,101,0,0
+1631891191311,60,GET Activity,200,OK,Stress 1-10,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,60,0,0
+1631891191307,64,GET Book,200,OK,Stress 1-12,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,63,0,0
+1631891191307,63,GET Book,200,OK,Stress 1-18,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,63,0,0
+1631891191255,115,GET All Books,200,OK,Stress 1-8,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,101,0,0
+1631891191271,99,GET Book,200,OK,Stress 1-5,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,99,0,0
+1631891191322,55,GET Activity,200,OK,Stress 1-16,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,55,0,0
+1631891191311,66,GET Book,200,OK,Stress 1-2,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,66,0,0
+1631891191311,66,GET All Authors,200,OK,Stress 1-7,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,60,0,0
+1631891191323,55,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,55,0,0
+1631891191317,61,GET Activity,200,OK,Stress 1-11,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,61,0,0
+1631891191322,56,GET Author,200,OK,Stress 1-20,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,56,0,0
+1631891191317,69,GET All Authors,200,OK,Stress 1-3,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,64,0,0
+1631891191323,78,GET All Books,200,OK,Stress 1-14,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,64,0,0
+1631891191318,83,GET Author,200,OK,Stress 1-15,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,83,0,0
+1631891191341,61,GET All Activities,200,OK,Stress 1-17,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,61,0,0
+1631891191322,97,GET All Authors,200,OK,Stress 1-1,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,56,0,0
+1631891191322,122,GET All Books,200,OK,Stress 1-19,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,80,0,0
+1631891191346,98,GET Book,200,OK,Stress 1-6,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,98,0,0
+1631891191317,128,GET All Authors,200,OK,Stress 1-9,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,85,0,0
+1631891191361,84,GET Book,200,OK,Stress 1-4,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,84,0,0
+1631891191375,72,GET All Activities,200,OK,Stress 1-18,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,72,0,0
+1631891191377,70,GET Author,200,OK,Stress 1-7,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,70,0,0
+1631891191376,71,GET All Activities,200,OK,Stress 1-5,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,71,0,0
+1631891191375,78,GET All Authors,200,OK,Stress 1-10,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,72,0,0
+1631891191375,84,GET All Activities,200,OK,Stress 1-12,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,84,0,0
+1631891191377,82,GET All Activities,200,OK,Stress 1-2,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,82,0,0
+1631891191378,94,GET Activity,200,OK,Stress 1-13,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,94,0,0
+1631891191378,100,GET All Authors,200,OK,Stress 1-11,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,94,0,0
+1631891191377,101,GET All Authors,200,OK,Stress 1-16,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,76,0,0
+1631891191387,91,GET Author,200,OK,Stress 1-3,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,91,0,0
+1631891191375,111,GET Book,200,OK,Stress 1-8,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,104,0,0
+1631891191378,108,GET All Books,200,OK,Stress 1-20,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,99,0,0
+1631891191401,88,GET Book,200,OK,Stress 1-14,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,88,0,0
+1631891191402,87,GET Activity,200,OK,Stress 1-17,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,87,0,0
+1631891191420,76,GET Author,200,OK,Stress 1-1,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,76,0,0
+1631891191454,51,GET Author,200,OK,Stress 1-10,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,51,0,0
+1631891191447,58,GET Activity,200,OK,Stress 1-18,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,58,0,0
+1631891191401,104,GET All Books,200,OK,Stress 1-15,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,88,0,0
+1631891191447,68,GET Activity,200,OK,Stress 1-5,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,68,0,0
+1631891191445,70,GET Author,200,OK,Stress 1-9,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,70,0,0
+1631891191446,69,GET All Activities,200,OK,Stress 1-4,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,69,0,0
+1631891191445,70,GET All Activities,200,OK,Stress 1-6,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,70,0,0
+1631891191445,76,GET Book,200,OK,Stress 1-19,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,76,0,0
+1631891191447,84,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,68,0,0
+1631891191459,72,GET Activity,200,OK,Stress 1-2,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,72,0,0
+1631891191472,77,GET All Authors,200,OK,Stress 1-13,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,59,0,0
+1631891191459,90,GET Activity,200,OK,Stress 1-12,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,90,0,0
+1631891191479,82,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,82,0,0
+1631891191515,46,GET All Authors,200,OK,Stress 1-5,text,true,,35497,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,40,0,0
+1631891191489,72,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,72,0,0
+1631891191489,77,GET All Authors,200,OK,Stress 1-17,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,63,0,0
+1631891191486,86,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,86,0,0
+1631891191505,88,GET All Books,200,OK,Stress 1-10,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,62,0,0
+1631891191505,94,GET All Authors,200,OK,Stress 1-18,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,61,0,0
+1631891191479,125,GET Author,200,OK,Stress 1-11,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,124,0,0
+1631891191479,125,GET All Books,200,OK,Stress 1-3,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,88,0,0
+1631891191515,94,GET Activity,200,OK,Stress 1-4,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,94,0,0
+1631891191515,94,GET Activity,200,OK,Stress 1-6,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,94,0,0
+1631891191505,104,GET Book,200,OK,Stress 1-15,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,104,0,0
+1631891191486,131,GET Book,200,OK,Stress 1-20,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,131,0,0
+1631891191522,95,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,95,0,0
+1631891191515,111,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,94,0,0
+1631891191532,112,GET Book,200,OK,Stress 1-7,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,112,0,0
+1631891191532,117,GET All Authors,200,OK,Stress 1-2,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,94,0,0
+1631891191561,88,GET Activity,200,OK,Stress 1-14,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,88,0,0
+1631891191561,88,GET Author,200,OK,Stress 1-5,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,88,0,0
+1631891191549,101,GET Author,200,OK,Stress 1-13,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,101,0,0
+1631891191549,105,GET All Authors,200,OK,Stress 1-12,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,83,0,0
+1631891191496,179,GET All Books,200,OK,Stress 1-1,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,148,0,0
+1631891191600,79,GET Author,200,OK,Stress 1-18,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,79,0,0
+1631891191561,118,GET All Books,200,OK,Stress 1-16,text,true,,97450,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,98,0,0
+1631891191604,75,GET Book,200,OK,Stress 1-3,text,true,,743,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,75,0,0
+1631891191610,69,GET All Activities,200,OK,Stress 1-15,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,69,0,0
+1631891191617,63,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,63,0,0
+1631891191567,113,GET Author,200,OK,Stress 1-17,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,113,0,0
+1631891191573,107,GET Activity,200,OK,Stress 1-8,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,107,0,0
+1631891191594,86,GET Book,200,OK,Stress 1-10,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,86,0,0
+1631891191617,64,GET Activity,200,OK,Stress 1-19,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,64,0,0
+1631891191610,80,GET All Authors,200,OK,Stress 1-6,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,75,0,0
+1631891191604,96,GET All Books,200,OK,Stress 1-11,text,true,,97384,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,77,0,0
+1631891191626,80,GET Book,200,OK,Stress 1-9,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,80,0,0
+1631891191610,96,GET All Authors,200,OK,Stress 1-4,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,85,0,0
+1631891191649,69,GET Author,200,OK,Stress 1-2,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,69,0,0
+1631891191644,74,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,74,0,0
+1631891191654,64,GET Author,200,OK,Stress 1-12,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,64,0,0
+1631891191649,75,GET All Authors,200,OK,Stress 1-14,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,69,0,0
+1631891191649,105,GET All Books,200,OK,Stress 1-5,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,79,0,0
+1631891191650,111,GET All Books,200,OK,Stress 1-13,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,74,0,0
+1631891191681,80,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,80,0,0
+1631891191680,81,GET Activity,200,OK,Stress 1-15,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,81,0,0
+1631891191679,83,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,83,0,0
+1631891191680,88,GET Activity,200,OK,Stress 1-20,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,88,0,0
+1631891191680,102,GET All Books,200,OK,Stress 1-17,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,85,0,0
+1631891191680,117,GET All Authors,200,OK,Stress 1-8,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,81,0,0
+1631891191681,116,GET All Authors,200,OK,Stress 1-19,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,85,0,0
+1631891191675,127,GET Book,200,OK,Stress 1-1,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,127,0,0
+1631891191679,123,GET Book,200,OK,Stress 1-16,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,123,0,0
+1631891191679,128,GET All Books,200,OK,Stress 1-18,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,83,0,0
+1631891191706,101,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,101,0,0
+1631891191706,101,GET Author,200,OK,Stress 1-4,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,101,0,0
+1631891191690,117,GET Author,200,OK,Stress 1-6,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,117,0,0
+1631891191701,107,GET Book,200,OK,Stress 1-11,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,107,0,0
+1631891191718,105,GET Activity,200,OK,Stress 1-7,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,105,0,0
+1631891191718,105,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,97,0,0
+1631891191724,100,GET Author,200,OK,Stress 1-14,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,100,0,0
+1631891191761,73,GET Activity,200,OK,Stress 1-10,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,73,0,0
+1631891191755,79,GET Book,200,OK,Stress 1-5,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,79,0,0
+1631891191762,72,GET Activity,200,OK,Stress 1-3,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,72,0,0
+1631891191718,127,GET All Books,200,OK,Stress 1-12,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,105,0,0
+1631891191762,101,GET All Authors,200,OK,Stress 1-15,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,83,0,0
+1631891191761,102,GET Book,200,OK,Stress 1-13,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,102,0,0
+1631891191769,97,GET All Authors,200,OK,Stress 1-20,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,94,0,0
+1631891191782,84,GET Book,200,OK,Stress 1-17,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,84,0,0
+1631891191797,69,GET Author,200,OK,Stress 1-19,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,69,0,0
+1631891191797,70,GET Author,200,OK,Stress 1-8,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,70,0,0
+1631891191808,60,GET Activity,200,OK,Stress 1-9,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,60,0,0
+1631891191803,65,GET All Activities,200,OK,Stress 1-16,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,65,0,0
+1631891191807,77,GET Book,200,OK,Stress 1-18,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,77,0,0
+1631891191802,75,GET All Activities,200,OK,Stress 1-1,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,75,0,0
+1631891191808,69,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,69,0,0
+1631891191807,87,GET All Books,200,OK,Stress 1-6,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,77,0,0
+1631891191824,80,GET All Authors,200,OK,Stress 1-7,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,71,0,0
+1631891191807,97,GET All Books,200,OK,Stress 1-4,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,87,0,0
+1631891191824,80,GET Book,200,OK,Stress 1-2,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,80,0,0
+1631891191824,109,GET All Books,200,OK,Stress 1-14,text,true,,97515,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,84,0,0
+1631891191834,99,GET All Activities,200,OK,Stress 1-5,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,99,0,0
+1631891191835,122,GET All Authors,200,OK,Stress 1-3,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,99,0,0
+1631891191868,94,GET All Activities,200,OK,Stress 1-17,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,94,0,0
+1631891191846,116,GET Book,200,OK,Stress 1-12,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,116,0,0
+1631891191864,98,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,98,0,0
+1631891191834,128,GET All Authors,200,OK,Stress 1-10,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,100,0,0
+1631891191869,94,GET Activity,200,OK,Stress 1-16,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,94,0,0
+1631891191866,97,GET Author,200,OK,Stress 1-20,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,97,0,0
+1631891191868,100,GET All Authors,200,OK,Stress 1-9,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,95,0,0
+1631891191864,104,GET Author,200,OK,Stress 1-15,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,104,0,0
+1631891191887,97,GET All Activities,200,OK,Stress 1-18,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,96,0,0
+1631891191887,97,GET Activity,200,OK,Stress 1-11,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,97,0,0
+1631891191887,107,GET Activity,200,OK,Stress 1-1,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,107,0,0
+1631891191867,128,GET All Books,200,OK,Stress 1-8,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,101,0,0
+1631891191866,142,GET All Books,200,OK,Stress 1-19,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,117,0,0
+1631891191957,52,GET Author,200,OK,Stress 1-3,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,52,0,0
+1631891191934,75,GET Book,200,OK,Stress 1-14,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,75,0,0
+1631891191962,47,GET All Activities,200,OK,Stress 1-12,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,47,0,0
+1631891191962,48,GET Activity,200,OK,Stress 1-13,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,48,0,0
+1631891191962,48,GET Author,200,OK,Stress 1-10,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,48,0,0
+1631891191962,48,GET Activity,200,OK,Stress 1-17,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,48,0,0
+1631891191963,47,GET All Authors,200,OK,Stress 1-16,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,47,0,0
+1631891191905,106,GET All Activities,200,OK,Stress 1-2,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,106,0,0
+1631891191904,107,GET Author,200,OK,Stress 1-7,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,107,0,0
+1631891191894,117,GET Book,200,OK,Stress 1-6,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,117,0,0
+1631891191905,106,GET Book,200,OK,Stress 1-4,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,106,0,0
+1631891191934,78,GET Activity,200,OK,Stress 1-5,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,78,0,0
+1631891191968,45,GET Author,200,OK,Stress 1-9,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,45,0,0
+1631891191984,51,GET Activity,200,OK,Stress 1-18,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,51,0,0
+1631891191963,72,GET All Books,200,OK,Stress 1-20,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,48,0,0
+1631891191968,102,GET All Books,200,OK,Stress 1-15,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,68,0,0
+1631891191984,86,GET All Authors,200,OK,Stress 1-11,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,64,0,0
+1631891191995,75,GET Book,200,OK,Stress 1-8,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,75,0,0
+1631891191995,80,GET All Authors,200,OK,Stress 1-1,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,75,0,0
+1631891192010,70,GET All Authors,200,OK,Stress 1-17,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,65,0,0
+1631891192009,71,GET Activity,200,OK,Stress 1-12,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,71,0,0
+1631891192011,69,GET Activity,200,OK,Stress 1-2,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,69,0,0
+1631891192009,76,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,76,0,0
+1631891192011,79,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,79,0,0
+1631891192010,134,GET All Books,200,OK,Stress 1-10,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,75,0,0
+1631891192009,147,GET All Books,200,OK,Stress 1-3,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,71,0,0
+1631891192012,144,GET All Activities,200,OK,Stress 1-4,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,144,0,0
+1631891192010,152,GET All Authors,200,OK,Stress 1-13,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,80,0,0
+1631891192012,150,GET All Activities,200,OK,Stress 1-6,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,150,0,0
+1631891192014,160,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,76,0,0
+1631891192012,166,GET All Authors,200,OK,Stress 1-5,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,102,0,0
+1631891192035,144,GET Book,200,OK,Stress 1-20,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,144,0,0
+1631891192011,190,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,168,0,0
+1631891192035,166,GET All Authors,200,OK,Stress 1-18,text,true,,53855,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,144,0,0
+1631891192008,194,GET Book,200,OK,Stress 1-19,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,194,0,0
+1631891192070,132,GET Author,200,OK,Stress 1-11,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,132,0,0
+1631891192070,146,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,146,0,0
+1631891192070,147,GET Book,200,OK,Stress 1-15,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,147,0,0
+1631891192080,137,GET Author,200,OK,Stress 1-17,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,137,0,0
+1631891192080,139,GET All Authors,200,OK,Stress 1-12,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,137,0,0
+1631891192080,140,GET All Authors,200,OK,Stress 1-2,text,true,,35003,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,137,0,0
+1631891192085,135,GET Activity,200,OK,Stress 1-14,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,135,0,0
+1631891192179,81,GET Author,200,OK,Stress 1-5,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,81,0,0
+1631891192075,185,GET Author,200,OK,Stress 1-1,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,185,0,0
+1631891192090,170,GET All Books,200,OK,Stress 1-16,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,130,0,0
+1631891192162,98,GET Author,200,OK,Stress 1-13,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,98,0,0
+1631891192156,104,GET Activity,200,OK,Stress 1-4,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,104,0,0
+1631891192163,97,GET Activity,200,OK,Stress 1-6,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,97,0,0
+1631891192180,80,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,80,0,0
+1631891192156,105,GET Book,200,OK,Stress 1-3,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,105,0,0
+1631891192174,87,GET Book,200,OK,Stress 1-9,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,87,0,0
+1631891192144,117,GET Book,200,OK,Stress 1-10,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,117,0,0
+1631891192202,59,GET Author,200,OK,Stress 1-18,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,59,0,0
+1631891192202,60,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,60,0,0
+1631891192201,61,GET Book,200,OK,Stress 1-7,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,61,0,0
+1631891192202,106,GET All Books,200,OK,Stress 1-11,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,60,0,0
+1631891192264,365,GET All Activities,200,OK,Stress 1-7,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,365,0,0
+1631891192264,365,GET All Activities,200,OK,Stress 1-10,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,365,0,0
+1631891192261,376,GET All Activities,200,OK,Stress 1-3,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,376,0,0
+1631891192263,374,GET All Activities,200,OK,Stress 1-9,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,374,0,0
+1631891192308,334,GET Book,200,OK,Stress 1-11,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,334,0,0
+1631891192217,449,GET All Activities,200,OK,Stress 1-15,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,449,0,0
+1631891192261,407,GET All Authors,200,OK,Stress 1-6,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,395,0,0
+1631891192262,419,GET Activity,200,OK,Stress 1-19,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,415,0,0
+1631891192260,421,GET All Books,200,OK,Stress 1-5,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,386,0,0
+1631891192220,462,GET Author,200,OK,Stress 1-2,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,462,0,0
+1631891192260,427,GET Book,200,OK,Stress 1-16,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/9,427,0,0
+1631891192260,432,GET All Books,200,OK,Stress 1-13,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,386,0,0
+1631891192220,477,GET All Authors,200,OK,Stress 1-14,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,462,0,0
+1631891192216,481,GET Activity,200,OK,Stress 1-8,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,481,0,0
+1631891192262,440,GET All Books,200,OK,Stress 1-18,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,380,0,0
+1631891192219,488,GET Author,200,OK,Stress 1-12,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,488,0,0
+1631891192261,451,GET Activity,200,OK,Stress 1-20,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,451,0,0
+1631891192637,75,GET Activity,200,OK,Stress 1-3,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,75,0,0
+1631891192629,83,GET Activity,200,OK,Stress 1-7,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/2,83,0,0
+1631891192629,88,GET Activity,200,OK,Stress 1-10,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/3,88,0,0
+1631891192217,502,GET All Books,200,OK,Stress 1-17,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,485,0,0
+1631891192637,85,GET Activity,200,OK,Stress 1-9,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/1,85,0,0
+1631891192261,463,GET All Authors,200,OK,Stress 1-4,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,446,0,0
+1631891192643,92,GET All Activities,200,OK,Stress 1-11,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,92,0,0
+1631891192666,78,GET Activity,200,OK,Stress 1-15,text,true,,354,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,78,0,0
+1631891192260,484,GET All Books,200,OK,Stress 1-1,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,464,0,0
+1631891192669,76,GET Author,200,OK,Stress 1-6,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/6,76,0,0
+1631891192682,64,GET Book,200,OK,Stress 1-5,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/11,64,0,0
+1631891192681,80,GET All Authors,200,OK,Stress 1-19,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,63,0,0
+1631891192687,85,GET All Activities,200,OK,Stress 1-16,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,85,0,0
+1631891192682,95,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,68,0,0
+1631891192692,89,GET Book,200,OK,Stress 1-13,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,89,0,0
+1631891192702,80,GET Book,200,OK,Stress 1-18,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/2,80,0,0
+1631891192697,85,GET Author,200,OK,Stress 1-14,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,85,0,0
+1631891192712,80,GET All Authors,200,OK,Stress 1-3,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,69,0,0
+1631891192717,85,GET All Authors,200,OK,Stress 1-10,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,70,0,0
+1631891192712,106,GET All Authors,200,OK,Stress 1-20,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,80,0,0
+1631891192712,106,GET All Authors,200,OK,Stress 1-7,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,91,0,0
+1631891192707,122,GET All Books,200,OK,Stress 1-12,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,100,0,0
+1631891192724,105,GET Author,200,OK,Stress 1-4,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/7,105,0,0
+1631891192735,94,GET Activity,200,OK,Stress 1-11,text,true,,350,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/4,94,0,0
+1631891192722,118,GET All Authors,200,OK,Stress 1-9,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,107,0,0
+1631891192719,122,GET Book,200,OK,Stress 1-17,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/1,122,0,0
+1631891192746,95,GET All Activities,200,OK,Stress 1-5,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,95,0,0
+1631891192745,101,GET All Authors,200,OK,Stress 1-15,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,96,0,0
+1631891192745,102,GET Book,200,OK,Stress 1-1,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/8,101,0,0
+1631891192745,124,GET All Books,200,OK,Stress 1-6,text,true,,97443,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,101,0,0
+1631891192777,97,GET Book,200,OK,Stress 1-2,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/3,97,0,0
+1631891192782,92,GET All Activities,200,OK,Stress 1-18,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,92,0,0
+1631891192792,82,GET Author,200,OK,Stress 1-3,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/12,82,0,0
+1631891192772,103,GET Activity,200,OK,Stress 1-16,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/5,103,0,0
+1631891192782,93,GET All Activities,200,OK,Stress 1-13,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,93,0,0
+1631891192761,114,GET Author,200,OK,Stress 1-19,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/10,114,0,0
+1631891192841,50,GET Activity,200,OK,Stress 1-5,text,true,,350,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/6,50,0,0
+1631891192782,109,GET All Books,200,OK,Stress 1-14,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,93,0,0
+1631891192803,88,GET Author,200,OK,Stress 1-10,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/3,88,0,0
+1631891192841,50,GET Author,200,OK,Stress 1-9,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/1,50,0,0
+1631891192818,74,GET Author,200,OK,Stress 1-20,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/9,74,0,0
+1631891192819,73,GET Author,200,OK,Stress 1-7,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/2,73,0,0
+1631891192841,51,GET All Activities,200,OK,Stress 1-17,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,51,0,0
+1631891192829,67,GET All Authors,200,OK,Stress 1-11,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,62,0,0
+1631891192829,67,GET Book,200,OK,Stress 1-12,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/4,67,0,0
+1631891192847,49,GET All Activities,200,OK,Stress 1-1,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,49,0,0
+1631891192847,49,GET Author,200,OK,Stress 1-15,text,true,,333,176,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/11,49,0,0
+1631891192829,88,GET All Books,200,OK,Stress 1-4,text,true,,97381,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,75,0,0
+1631891192870,48,GET Book,200,OK,Stress 1-6,text,true,,741,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/6,48,0,0
+1631891192874,44,GET All Activities,200,OK,Stress 1-2,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,44,0,0
+1631891192874,44,GET Activity,200,OK,Stress 1-18,text,true,,350,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/8,44,0,0
+1631891192875,44,GET Activity,200,OK,Stress 1-13,text,true,,351,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/7,44,0,0
+1631891192875,66,GET All Authors,200,OK,Stress 1-16,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,53,0,0
+1631891192896,45,GET Author,200,OK,Stress 1-11,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/4,45,0,0
+1631891192892,49,GET Activity,200,OK,Stress 1-17,text,true,,352,178,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/9,49,0,0
+1631891192697,277,GET All Authors,200,OK,Stress 1-8,text,true,,47615,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,84,0,0
+1631891192897,77,GET All Activities,200,OK,Stress 1-12,text,true,,3109,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,77,0,0
+1631891192875,110,GET All Books,200,OK,Stress 1-3,text,true,,97381,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,66,0,0
+1631891192875,115,GET All Books,200,OK,Stress 1-19,text,true,,97432,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,81,0,0
+1631891192897,109,GET Activity,200,OK,Stress 1-1,text,true,,352,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/10,109,0,0
+1631891192892,114,GET All Books,200,OK,Stress 1-7,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,98,0,0
+1631891192891,131,GET All Books,200,OK,Stress 1-10,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,115,0,0
+1631891192918,109,GET Activity,200,OK,Stress 1-2,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/11,109,0,0
+1631891192921,115,GET All Activities,200,OK,Stress 1-6,text,true,,3079,176,20,20,https://bobby-appservice.azurewebsites.net/api/Activities,115,0,0
+1631891192891,148,GET All Authors,200,OK,Stress 1-5,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,131,0,0
+1631891192891,148,GET Book,200,OK,Stress 1-14,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/5,148,0,0
+1631891192919,134,GET All Authors,200,OK,Stress 1-13,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,104,0,0
+1631891192918,141,GET Book,200,OK,Stress 1-4,text,true,,740,173,20,20,https://bobby-appservice.azurewebsites.net/api/Books/7,141,0,0
+1631891192897,167,GET All Books,200,OK,Stress 1-15,text,true,,97339,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,129,0,0
+1631891192918,151,GET All Authors,200,OK,Stress 1-18,text,true,,63507,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,93,0,0
+1631891192941,128,GET Author,200,OK,Stress 1-16,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/5,128,0,0
+1631891192941,144,GET All Authors,200,OK,Stress 1-17,text,true,,31723,173,20,20,https://bobby-appservice.azurewebsites.net/api/Authors,128,0,0
+1631891192892,198,GET All Books,200,OK,Stress 1-9,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,172,0,0
+1631891192892,208,GET All Books,200,OK,Stress 1-20,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,172,0,0
+1631891192941,170,GET All Books,200,OK,Stress 1-11,text,true,,97539,171,20,20,https://bobby-appservice.azurewebsites.net/api/Books,159,0,0
+1631891192974,137,GET Activity,200,OK,Stress 1-12,text,true,,353,179,20,20,https://bobby-appservice.azurewebsites.net/api/Activities/12,137,0,0
+1631891192974,137,GET Author,200,OK,Stress 1-8,text,true,,330,175,20,20,https://bobby-appservice.azurewebsites.net/api/Authors/8,137,0,0
+1631891192990,121,GET Book,200,OK,Stress 1-19,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/10,121,0,0
+1631891192985,127,GET Book,200,OK,Stress 1-3,text,true,,744,174,20,20,https://bobby-appservice.azurewebsites.net/api/Books/12,127,0,0
+1631891193006,124,GET All Authors,200,OK,Stress 1-1,text,true,,47615,173,19,19,https://bobby-appservice.azurewebsites.net/api/Authors,105,0,0
+1631891193006,124,GET Book,200,OK,Stress 1-7,text,true,,741,173,19,19,https://bobby-appservice.azurewebsites.net/api/Books/2,124,0,0
+1631891193022,108,GET Book,200,OK,Stress 1-10,text,true,,741,173,19,19,https://bobby-appservice.azurewebsites.net/api/Books/3,108,0,0
+1631891193027,112,GET All Authors,200,OK,Stress 1-2,text,true,,63507,173,17,17,https://bobby-appservice.azurewebsites.net/api/Authors,103,0,0
+1631891193039,101,GET All Activities,200,OK,Stress 1-14,text,true,,3109,176,17,17,https://bobby-appservice.azurewebsites.net/api/Activities,101,0,0
+1631891193036,105,GET Activity,200,OK,Stress 1-6,text,true,,352,178,17,17,https://bobby-appservice.azurewebsites.net/api/Activities/1,105,0,0
+1631891193039,105,GET Author,200,OK,Stress 1-5,text,true,,330,175,17,17,https://bobby-appservice.azurewebsites.net/api/Authors/6,105,0,0
+1631891193054,91,GET Author,200,OK,Stress 1-13,text,true,,330,175,17,17,https://bobby-appservice.azurewebsites.net/api/Authors/7,90,0,0
+1631891193060,90,GET All Activities,200,OK,Stress 1-4,text,true,,3109,176,17,17,https://bobby-appservice.azurewebsites.net/api/Activities,90,0,0
+1631891193069,81,GET Author,200,OK,Stress 1-18,text,true,,330,175,17,17,https://bobby-appservice.azurewebsites.net/api/Authors/8,81,0,0
+1631891193086,64,GET Author,200,OK,Stress 1-17,text,true,,330,175,17,17,https://bobby-appservice.azurewebsites.net/api/Authors/9,64,0,0
+1631891193064,86,GET Book,200,OK,Stress 1-15,text,true,,744,174,17,17,https://bobby-appservice.azurewebsites.net/api/Books/11,86,0,0
+1631891193070,96,GET All Books,200,OK,Stress 1-16,text,true,,97539,171,17,17,https://bobby-appservice.azurewebsites.net/api/Books,80,0,0
+1631891193101,65,GET Book,200,OK,Stress 1-20,text,true,,741,173,17,17,https://bobby-appservice.azurewebsites.net/api/Books/9,65,0,0
+1631891193091,75,GET Book,200,OK,Stress 1-9,text,true,,741,173,17,17,https://bobby-appservice.azurewebsites.net/api/Books/1,75,0,0
+1631891193112,54,GET All Activities,200,OK,Stress 1-19,text,true,,3109,176,17,17,https://bobby-appservice.azurewebsites.net/api/Activities,54,0,0
+1631891193111,67,GET All Authors,200,OK,Stress 1-12,text,true,,31723,173,16,16,https://bobby-appservice.azurewebsites.net/api/Authors,55,0,0
+1631891193111,67,GET Book,200,OK,Stress 1-11,text,true,,741,173,16,16,https://bobby-appservice.azurewebsites.net/api/Books/4,67,0,0
+1631891193140,42,GET Activity,200,OK,Stress 1-14,text,true,,351,178,15,15,https://bobby-appservice.azurewebsites.net/api/Activities/2,42,0,0
+1631891193140,42,GET Author,200,OK,Stress 1-2,text,true,,333,176,15,15,https://bobby-appservice.azurewebsites.net/api/Authors/11,42,0,0
+1631891193141,52,GET All Authors,200,OK,Stress 1-6,text,true,,63507,173,15,15,https://bobby-appservice.azurewebsites.net/api/Authors,46,0,0
+1631891193130,63,GET Author,200,OK,Stress 1-1,text,true,,333,176,15,15,https://bobby-appservice.azurewebsites.net/api/Authors/10,63,0,0
+1631891193150,49,GET All Activities,200,OK,Stress 1-15,text,true,,3079,176,15,15,https://bobby-appservice.azurewebsites.net/api/Activities,49,0,0
+1631891193166,39,GET All Activities,200,OK,Stress 1-20,text,true,,3109,176,15,15,https://bobby-appservice.azurewebsites.net/api/Activities,39,0,0
+1631891193150,61,GET Activity,200,OK,Stress 1-4,text,true,,352,178,15,15,https://bobby-appservice.azurewebsites.net/api/Activities/3,61,0,0
+1631891193150,69,GET All Books,200,OK,Stress 1-17,text,true,,97339,171,15,15,https://bobby-appservice.azurewebsites.net/api/Books,49,0,0
+1631891193145,88,GET All Books,200,OK,Stress 1-13,text,true,,97339,171,15,15,https://bobby-appservice.azurewebsites.net/api/Books,54,0,0
+1631891193111,126,GET All Books,200,OK,Stress 1-8,text,true,,97539,171,15,15,https://bobby-appservice.azurewebsites.net/api/Books,67,0,0
+1631891193166,74,GET Activity,200,OK,Stress 1-19,text,true,,351,178,15,15,https://bobby-appservice.azurewebsites.net/api/Activities/4,74,0,0
+1631891193145,116,GET All Books,200,OK,Stress 1-5,text,true,,97339,171,15,15,https://bobby-appservice.azurewebsites.net/api/Books,60,0,0
+1631891193178,84,GET Author,200,OK,Stress 1-12,text,true,,333,176,15,15,https://bobby-appservice.azurewebsites.net/api/Authors/12,84,0,0
+1631891193166,96,GET Book,200,OK,Stress 1-16,text,true,,741,173,15,15,https://bobby-appservice.azurewebsites.net/api/Books/5,96,0,0
+1631891193150,117,GET All Books,200,OK,Stress 1-18,text,true,,97339,171,14,14,https://bobby-appservice.azurewebsites.net/api/Books,49,0,0
+1631891193182,101,GET All Authors,200,OK,Stress 1-14,text,true,,47615,173,14,14,https://bobby-appservice.azurewebsites.net/api/Authors,85,0,0
+1631891193193,107,GET Author,200,OK,Stress 1-6,text,true,,330,175,14,14,https://bobby-appservice.azurewebsites.net/api/Authors/1,107,0,0
+1631891193182,118,GET All Books,200,OK,Stress 1-2,text,true,,97539,171,14,14,https://bobby-appservice.azurewebsites.net/api/Books,102,0,0
+1631891193199,102,GET Activity,200,OK,Stress 1-15,text,true,,352,178,14,14,https://bobby-appservice.azurewebsites.net/api/Activities/5,102,0,0
+1631891193205,96,GET Activity,200,OK,Stress 1-20,text,true,,351,178,14,14,https://bobby-appservice.azurewebsites.net/api/Activities/6,96,0,0
+1631891193211,97,GET All Authors,200,OK,Stress 1-4,text,true,,31723,173,14,14,https://bobby-appservice.azurewebsites.net/api/Authors,90,0,0
+1631891193220,88,GET Book,200,OK,Stress 1-17,text,true,,741,173,14,14,https://bobby-appservice.azurewebsites.net/api/Books/9,88,0,0
+1631891193237,73,GET Book,200,OK,Stress 1-8,text,true,,741,173,13,13,https://bobby-appservice.azurewebsites.net/api/Books/8,73,0,0
+1631891193241,70,GET All Authors,200,OK,Stress 1-19,text,true,,47615,173,13,13,https://bobby-appservice.azurewebsites.net/api/Authors,67,0,0
+1631891193234,81,GET Book,200,OK,Stress 1-13,text,true,,741,173,13,13,https://bobby-appservice.azurewebsites.net/api/Books/7,78,0,0
+1631891193193,135,GET All Books,200,OK,Stress 1-1,text,true,,97539,171,12,12,https://bobby-appservice.azurewebsites.net/api/Books,108,0,0
+1631891193267,61,GET Book,200,OK,Stress 1-18,text,true,,741,173,12,12,https://bobby-appservice.azurewebsites.net/api/Books/8,61,0,0
+1631891193283,50,GET Author,200,OK,Stress 1-14,text,true,,330,175,11,11,https://bobby-appservice.azurewebsites.net/api/Authors/2,50,0,0
+1631891193262,71,GET Book,200,OK,Stress 1-5,text,true,,741,173,11,11,https://bobby-appservice.azurewebsites.net/api/Books/6,71,0,0
+1631891193262,101,GET All Books,200,OK,Stress 1-12,text,true,,97539,171,10,10,https://bobby-appservice.azurewebsites.net/api/Books,71,0,0
+1631891193301,62,GET Book,200,OK,Stress 1-2,text,true,,744,174,10,10,https://bobby-appservice.azurewebsites.net/api/Books/11,62,0,0
+1631891193302,66,GET All Authors,200,OK,Stress 1-15,text,true,,63507,173,9,9,https://bobby-appservice.azurewebsites.net/api/Authors,33,0,0
+1631891193311,57,GET All Activities,200,OK,Stress 1-8,text,true,,3109,176,9,9,https://bobby-appservice.azurewebsites.net/api/Activities,57,0,0
+1631891193302,94,GET All Authors,200,OK,Stress 1-20,text,true,,63507,173,9,9,https://bobby-appservice.azurewebsites.net/api/Authors,61,0,0
+1631891193308,93,GET Author,200,OK,Stress 1-4,text,true,,330,175,9,9,https://bobby-appservice.azurewebsites.net/api/Authors/3,93,0,0
+1631891193301,106,GET All Books,200,OK,Stress 1-6,text,true,,97539,171,9,9,https://bobby-appservice.azurewebsites.net/api/Books,68,0,0
+1631891193329,78,GET Book,200,OK,Stress 1-1,text,true,,744,174,9,9,https://bobby-appservice.azurewebsites.net/api/Books/10,78,0,0
+1631891193311,95,GET Author,200,OK,Stress 1-19,text,true,,330,175,9,9,https://bobby-appservice.azurewebsites.net/api/Authors/4,95,0,0
+1631891193334,89,GET All Books,200,OK,Stress 1-14,text,true,,97539,171,9,9,https://bobby-appservice.azurewebsites.net/api/Books,73,0,0
+1631891193369,66,GET Author,200,OK,Stress 1-15,text,true,,330,175,9,9,https://bobby-appservice.azurewebsites.net/api/Authors/5,66,0,0
+1631891193363,72,GET Book,200,OK,Stress 1-12,text,true,,744,174,9,9,https://bobby-appservice.azurewebsites.net/api/Books/12,72,0,0
+1631891193369,66,GET Activity,200,OK,Stress 1-8,text,true,,352,178,9,9,https://bobby-appservice.azurewebsites.net/api/Activities/7,66,0,0
+1631891193396,40,GET Author,200,OK,Stress 1-20,text,true,,330,175,9,9,https://bobby-appservice.azurewebsites.net/api/Authors/6,40,0,0
+1631891193413,34,GET All Activities,200,OK,Stress 1-1,text,true,,3079,176,8,8,https://bobby-appservice.azurewebsites.net/api/Activities,34,0,0
+1631891193401,63,GET All Books,200,OK,Stress 1-4,text,true,,97539,171,8,8,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631891193413,51,GET Book,200,OK,Stress 1-6,text,true,,740,173,8,8,https://bobby-appservice.azurewebsites.net/api/Books/1,51,0,0
+1631891193413,63,GET All Books,200,OK,Stress 1-19,text,true,,97339,171,7,7,https://bobby-appservice.azurewebsites.net/api/Books,51,0,0
+1631891193423,60,GET Book,200,OK,Stress 1-14,text,true,,740,173,7,7,https://bobby-appservice.azurewebsites.net/api/Books/2,53,0,0
+1631891193435,54,GET All Authors,200,OK,Stress 1-8,text,true,,31723,173,6,6,https://bobby-appservice.azurewebsites.net/api/Authors,54,0,0
+1631891193436,65,GET All Books,200,OK,Stress 1-20,text,true,,97539,171,6,6,https://bobby-appservice.azurewebsites.net/api/Books,53,0,0
+1631891193447,71,GET Activity,200,OK,Stress 1-1,text,true,,351,178,6,6,https://bobby-appservice.azurewebsites.net/api/Activities/8,71,0,0
+1631891193435,83,GET All Books,200,OK,Stress 1-15,text,true,,97539,171,6,6,https://bobby-appservice.azurewebsites.net/api/Books,66,0,0
+1631891193464,54,GET Book,200,OK,Stress 1-4,text,true,,740,173,6,6,https://bobby-appservice.azurewebsites.net/api/Books/3,54,0,0
+1631891193490,39,GET Author,200,OK,Stress 1-8,text,true,,330,175,5,5,https://bobby-appservice.azurewebsites.net/api/Authors/7,39,0,0
+1631891193476,53,GET Book,200,OK,Stress 1-19,text,true,,741,173,5,5,https://bobby-appservice.azurewebsites.net/api/Books/4,53,0,0
+1631891193501,54,GET Book,200,OK,Stress 1-20,text,true,,741,173,4,4,https://bobby-appservice.azurewebsites.net/api/Books/6,54,0,0
+1631891193518,55,GET All Authors,200,OK,Stress 1-1,text,true,,31723,173,3,3,https://bobby-appservice.azurewebsites.net/api/Authors,37,0,0
+1631891193518,56,GET Book,200,OK,Stress 1-15,text,true,,741,173,3,3,https://bobby-appservice.azurewebsites.net/api/Books/5,56,0,0
+1631891193529,77,GET All Books,200,OK,Stress 1-8,text,true,,97532,171,2,2,https://bobby-appservice.azurewebsites.net/api/Books,45,0,0
+1631891193574,50,GET Author,200,OK,Stress 1-1,text,true,,330,175,2,2,https://bobby-appservice.azurewebsites.net/api/Authors/8,50,0,0
+1631891193606,33,GET Book,200,OK,Stress 1-8,text,true,,739,173,2,2,https://bobby-appservice.azurewebsites.net/api/Books/7,33,0,0
+1631891193624,62,GET All Books,200,OK,Stress 1-1,text,true,,97539,171,1,1,https://bobby-appservice.azurewebsites.net/api/Books,36,0,0
+1631891193686,47,GET Book,200,OK,Stress 1-1,text,true,,741,173,1,1,https://bobby-appservice.azurewebsites.net/api/Books/8,47,0,0
