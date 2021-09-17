@@ -116,7 +116,7 @@ stages:
                 sudo apt-get upgrade -y
                 sudo apt-get install unzip -y
                 sudo apt-get install -y chromium-browser
-                pip3 install selenium -y
+                pip3 install selenium
                 
                 pwd
                 echo "Chrome driver..."
@@ -142,3 +142,34 @@ stages:
                 sudo mkdir /var/logs
                 python3 uitests.py > ui-logs.log
                 sudo mv ui-logs.log /var/logs
+
+- stage: Postman Test
+  jobs:
+  - job:
+    steps:
+    - task: NodeTool@0
+      inputs:
+        versionSpec: '12.x'
+    - task: CmdLine@2
+      inputs:
+        script: 'npm install newman'
+        workingDirectory: '$(System.DefaultWorkingDirectory)'
+    - task: CmdLine@2
+      inputs:
+        script: 'newman run automatedtesting/postman/StarterAPIsRegression.postman_collection.json -e automatedtesting/postman/StarterApiEnv.postman_environment.json --delay-request 5000 --bail newman -x --reporters cli,junit --reporter-junit-export Results/RegressionTests.xml'
+        workingDirectory: '$(System.DefaultWorkingDirectory)'
+      continueOnError: true
+    - task: CmdLine@2
+      inputs:
+        script: 'newman run automatedtesting/postman/StarterAPIsDataValidation.postman_collection.json -e automatedtesting/postman/StarterApiEnv.postman_environment.json --delay-request 5000 --bail newman -x --reporters cli,junit --reporter-junit-export Results/DataValidationTests.xml'
+        workingDirectory: '$(System.DefaultWorkingDirectory)'
+      continueOnError: true
+    - task: CmdLine@2
+      inputs:
+        script: 'pwd;ls'
+        workingDirectory: '$(System.DefaultWorkingDirectory)'
+    - task: PublishTestResults@2
+      condition: always()
+      inputs:
+        testResultsFormat: 'JUnit'
+        testResultsFiles: '$(System.DefaultWorkingDirectory)/Results/*.xml'
