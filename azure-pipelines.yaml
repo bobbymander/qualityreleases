@@ -143,7 +143,7 @@ stages:
                 python3 uitests.py > ui-logs.log
                 sudo mv ui-logs.log /var/logs
 
-- stage: Postman Test
+- stage: PostmanTest
   jobs:
   - job:
     steps:
