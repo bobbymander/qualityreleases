@@ -173,3 +173,24 @@ stages:
       inputs:
         testResultsFormat: 'JUnit'
         testResultsFiles: '$(System.DefaultWorkingDirectory)/Results/*.xml'
+        
+- stage: JMeterTest
+  jobs:
+  - job:
+    steps: 
+    - task: JMeterInstaller@0
+      inputs:
+        jmeterVersion: '5.4.1'
+    - task: Bash@3
+      inputs:
+        targetType: 'inline'
+        script: 'jmeter -n -t automatedtesting/jmeter/Endurance.jmx -Jresdir=automatedtesting/jmeter/endurance-output/data_writer_output.csv -l automatedtesting/jmeter/endurance-output/endurance.jtl -e -o automatedtesting/jmeter/endurance-output/html'
+    - task: Bash@3
+      inputs:
+        targetType: 'inline'
+        script: 'jmeter -n -t automatedtesting/jmeter/Stress.jmx -Jresdir=automatedtesting/jmeter/stress-output/data_writer_output.csv -l automatedtesting/jmeter/stress-output/stress.jtl -e -o automatedtesting/jmeter/stress-output/html'
+    - task: PublishBuildArtifacts@1
+      inputs:
+        PathtoPublish: 'automatedtesting/jmeter'
+        ArtifactName: 'jmeter'
+        publishLocation: 'Container'
