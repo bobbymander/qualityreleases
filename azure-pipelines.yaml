@@ -184,11 +184,15 @@ stages:
     - task: Bash@3
       inputs:
         targetType: 'inline'
-        script: 'jmeter -n -t automatedtesting/jmeter/Endurance.jmx -Jresdir=automatedtesting/jmeter/endurance-output/data_writer_output.csv -l automatedtesting/jmeter/endurance-output/endurance.jtl -e -o automatedtesting/jmeter/endurance-output/html2'
+        script: 'jmeter -n -t automatedtesting/jmeter/Endurance.jmx -l automatedtesting/jmeter/endurance-output/data_writer_output.csv -j automatedtesting/jmeter/endurance-output/endurance.log -e -f -o automatedtesting/jmeter/endurance-output/html'
     - task: Bash@3
       inputs:
         targetType: 'inline'
-        script: 'jmeter -n -t automatedtesting/jmeter/Stress.jmx -Jresdir=automatedtesting/jmeter/stress-output/data_writer_output.csv -l automatedtesting/jmeter/stress-output/stress.jtl -e -o automatedtesting/jmeter/stress-output/html2'
+        script: 'jmeter -n -t automatedtesting/jmeter/Stress.jmx -l automatedtesting/jmeter/stress-output/data_writer_output.csv -j automatedtesting/jmeter/stress-output/stress.log -e -f -o automatedtesting/jmeter/stress-output/html'
+    - task: CmdLine@2
+      inputs:
+        script: 'pwd;ls -lR'
+        workingDirectory: '$(System.DefaultWorkingDirectory)'
     - task: PublishBuildArtifacts@1
       inputs:
         PathtoPublish: 'automatedtesting/jmeter'
