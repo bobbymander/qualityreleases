@@ -120,17 +120,15 @@ stages:
                 
                 pwd
                 echo "Chrome driver..."
-                wget https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_linux64.zip
+                wget https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_linux64.zip
                 unzip chromedriver_linux64.zip
+                ls
                 sudo mv chromedriver /usr/bin/chromedriver
                 sudo chown root:root /usr/bin/chromedriver
                 sudo chmod +x /usr/bin/chromedriver
+                rm chromedriver_linux64.zip
                 chromium-browser -version
                 chromedriver --version
-
-                pwd
-                echo "Log analytics agent..."
-                wget https://raw.githubusercontent.com/Microsoft/OMS-Agent-for-Linux/master/installer/scripts/onboard_agent.sh && sh onboard_agent.sh -w dbf2bd83-6d47-436b-a499-a2b566def8fe -s MuSR8Ti5MMi0E+9+1NM4NxCxFqJcfLzuGD0EtGhjXo3Vhy/THcSdCf1WyQnkXafD+6DiFjiOAEfJiQh6EbZVeg== -d opinsights.azure.com
 
           - download: current
             artifact: selenium
@@ -140,8 +138,10 @@ stages:
               script: |
                 unzip -o $(Pipeline.Workspace)/selenium/selenium-tests.zip -d .
                 sudo mkdir /var/logs
-                python3 uitests.py > ui-logs.log
-                sudo mv ui-logs.log /var/logs
+                pwd
+                ls
+                python3 tests.py > selenium_tests.log
+                sudo cat selenium_tests.log >> /var/logs/selenium_tests.log
 
 - stage: PostmanTest
   jobs:
@@ -198,3 +198,21 @@ stages:
         PathtoPublish: 'automatedtesting/jmeter'
         ArtifactName: 'jmeter'
         publishLocation: 'Container'
+
+- stage: SeleniumTest
+  jobs:
+  - deployment: VMTest
+    environment:
+      name:  bobbymvm
+      resourceType: VirtualMachine
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          - task: Bash@3
+            inputs:
+              targetType: 'inline'
+              script: |
+                unzip -o $(Pipeline.Workspace)/selenium/selenium-tests.zip -d .
+                python3 tests.py > selenium_tests.log
+                sudo cat selenium_tests.log >> /var/logs/selenium_tests.log
