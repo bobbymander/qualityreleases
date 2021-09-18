@@ -202,3 +202,21 @@ stages:
         PathtoPublish: 'automatedtesting/jmeter'
         ArtifactName: 'jmeter'
         publishLocation: 'Container'
+
+- stage: SeleniumTest
+  jobs:
+  - deployment: VMTest
+    environment:
+      name:  bobbymvm
+      resourceType: VirtualMachine
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          - task: Bash@3
+            inputs:
+              targetType: 'inline'
+              script: |
+                unzip -o $(Pipeline.Workspace)/selenium/selenium-tests.zip -d .
+                python3 tests.py > selenium_tests.log
+                sudo mv selenium_tests.log /var/logs
