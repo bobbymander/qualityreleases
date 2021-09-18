@@ -122,9 +122,11 @@ stages:
                 echo "Chrome driver..."
                 wget https://chromedriver.storage.googleapis.com/94.0.4606.41/chromedriver_linux64.zip
                 unzip chromedriver_linux64.zip
+                ls
                 sudo mv chromedriver /usr/bin/chromedriver
                 sudo chown root:root /usr/bin/chromedriver
                 sudo chmod +x /usr/bin/chromedriver
+                rm chromedriver_linux64.zip
                 chromium-browser -version
                 chromedriver --version
 
