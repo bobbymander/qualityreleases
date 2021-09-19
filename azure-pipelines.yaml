@@ -185,12 +185,12 @@ stages:
       inputs:
         targetType: 'inline'
         script: 'jmeter -n -t automatedtesting/jmeter/Endurance.jmx -l automatedtesting/jmeter/endurance-output/data_writer_output.csv -j automatedtesting/jmeter/endurance-output/endurance.log -e -f -o automatedtesting/jmeter/endurance-output/html'
-      condition: False
+      #condition: False
     - task: Bash@3
       inputs:
         targetType: 'inline'
         script: 'jmeter -n -t automatedtesting/jmeter/Stress.jmx -l automatedtesting/jmeter/stress-output/data_writer_output.csv -j automatedtesting/jmeter/stress-output/stress.log -e -f -o automatedtesting/jmeter/stress-output/html'
-      condition: False
+      #condition: False
     - task: CmdLine@2
       inputs:
         script: 'pwd;ls -lR'
@@ -215,7 +215,6 @@ stages:
             inputs:
               targetType: 'inline'
               script: |
-                pwd
-                ls
-                python3 automatedtesting/selenium/tests.py > selenium_tests.log
+                unzip -o $(Pipeline.Workspace)/selenium/selenium-tests.zip -d .
+                python3 tests.py > selenium_tests.log
                 sudo cat selenium_tests.log >> /var/logs/selenium_tests.log
