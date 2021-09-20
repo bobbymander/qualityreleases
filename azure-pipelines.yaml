@@ -140,7 +140,7 @@ stages:
                 sudo mkdir /var/logs
                 pwd
                 ls
-                python3 tests.py > selenium_tests.log
+                python3 tests.py | tee -a selenium_tests.log
                 sudo cat selenium_tests.log >> /var/logs/selenium_tests.log
 
 - stage: PostmanTest
@@ -216,5 +216,5 @@ stages:
               targetType: 'inline'
               script: |
                 unzip -o $(Pipeline.Workspace)/selenium/selenium-tests.zip -d .
-                python3 tests.py > selenium_tests.log
+                python3 tests.py | tee -a selenium_tests.log
                 sudo cat selenium_tests.log >> /var/logs/selenium_tests.log
