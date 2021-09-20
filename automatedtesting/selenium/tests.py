@@ -11,7 +11,7 @@ def login (driver, user, password):
     driver.find_element_by_id('password').send_keys(password)
     driver.find_element_by_id('login-button').click()
     assert driver.current_url == 'https://www.saucedemo.com/inventory.html'
-    print('Login succeeded')
+    print('Login succeeded as user {}'.format(user))
 
 def add_items (driver):
     names = []
